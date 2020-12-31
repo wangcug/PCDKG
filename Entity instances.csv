@@ -1,0 +1,4416 @@
+﻿Entity instance,Token
+adularia-sericite alteration,AT
+adularitization,AT
+advanced argillic,AT
+advanced argillic alteration,AT
+albite-sericite,AT
+albitization,AT
+alunite,AT
+alunite-pyrophyllite,AT
+alunitization,AT
+anhydritization,AT
+argillic,AT
+argillic alteration,AT
+argillization,AT
+baritization,AT
+biotite alteration,AT
+biotite orthoclase,AT
+biotite-albite alteration,AT
+biotitisation,AT
+biotitization,AT
+biotitized,AT
+calcitization,AT
+calc-silicate alteration,AT
+carbonatization,AT
+chlorite alteration,AT
+chloritization,AT
+chloritized,AT
+Clay-sericite,AT
+dolomitization,AT
+epidote,AT
+epidote alteration,AT
+epidote chlorite,AT
+epithermal,AT
+garnet,AT
+garnet-bearing,AT
+green garnet,AT
+gypsification,AT
+hydromuscovitization,AT
+hydrothermal,AT
+hydrothermal alteration,AT
+hydrothermally altered,AT
+illitization,AT
+intense silica-sericite,AT
+K silicate alteration,AT
+K-(±Na) feldspar,AT
+kaolinitization,AT
+K-feldspar alteration,AT
+K-silicate,AT
+low- and high-sulfidation,AT
+low-sulfidation alteration,AT
+low-sulfidation epithermal alteration,AT
+magnetite alteration,AT
+magnetite-dominant alteration,AT
+Mineralization Alteration,AT
+montmorillonite,AT
+Na-K-feldspar alteration,AT
+orthoclasization,AT
+Patchy secondary biotite,AT
+phyllic,AT
+phyllic alteration,AT
+phyllic altered,AT
+phyllic mineralization-alteration,AT
+porphyry hydrothermal,AT
+Porphyry-Style Alteration,AT
+porphyry-style hydrothermal,AT
+post-K-silicate,AT
+potassic,AT
+potassic (-sodic),AT
+potassic alteration,AT
+potassic and phyllic,AT
+potassic mineralization-alteration,AT
+propylitic,AT
+propylitic alteration,AT
+propylitization,AT
+propylytization,AT
+pyritisation,AT
+pyritization,AT
+Pyrophyllite-alunite,AT
+pyroxene,AT
+pyroxene alteration,AT
+pyroxene-dominated alteration,AT
+quartz,AT
+Quartz alteration,AT
+quartz-adularia,AT
+quartz-sericite,AT
+quartz-sericite-carbonate alteration,AT
+quartz-sericite-clay,AT
+quartzsericite-pyrite,AT
+Quartz-sericitic,AT
+quartz-tourmaline,AT
+Scapolitisation,AT
+sericite,AT
+Sericite-albite,AT
+sericitic,AT
+sericitic alteration,AT
+sericitic-argillic,AT
+sericitization,AT
+sericitized,AT
+silica-sericite-propylitic,AT
+silicate hydrothermal,AT
+silication,AT
+silicification,AT
+silicified,AT
+smectite,AT
+Sodic-calcic,AT
+sub-alkaline,AT
+synphyllic mineralization-alteration,AT
+,
+advanced argillic zone,ASZ
+Anhydrite-molybdenite,ASZ
+anhydrite-saturated,ASZ
+argillite zone,ASZ
+biotite zone,ASZ
+biotite-altered zone,ASZ
+calc-silicate zonation,ASZ
+chlorite-biotite zone,ASZ
+chlorite-epidote-albite zone,ASZ
+high-sulfidation,ASZ
+K-silicate,ASZ
+metasomatic,ASZ
+metasomatism,ASZ
+Na-K-feldspar–altered zones,ASZ
+oxidation,ASZ
+oxidized,ASZ
+phyllic zone,ASZ
+potassic,ASZ
+premineralization-stage alteration,ASZ
+propylitic zone,ASZ
+proximal potassic,ASZ
+quartz+K,ASZ
+quartz+magnetite+actinolite,ASZ
+quartz-adularia zone,ASZ
+quartz-alunite,ASZ
+quartz-carbonate-sulfate stage,ASZ
+quartz-core zone,ASZ
+quartz-dickite,ASZ
+quartz-molybdenite,ASZ
+quartz-sericite,ASZ
+quartz-sericite and propylitic,ASZ
+Quartz-sericite-chlorite stage,ASZ
+recrystallization,ASZ
+sericite quartz zone,ASZ
+sericite-clay,ASZ
+sericite–clay–chlorite,ASZ
+sericitic,ASZ
+sericitic-argillic,ASZ
+silicification,ASZ
+silicified,ASZ
+sulphatization,ASZ
+sulphidation,ASZ
+sulphide-quartz,ASZ
+transitional potassic-propylitic,ASZ
+,
+Actinolite,AM
+alunite,AM
+amphibole,AM
+andalusite,AM
+andesine-oligoclase,AM
+andraditic,AM
+anhydrite,AM
+apatite,AM
+barite,AM
+biotite,AM
+biotite-quartz-albite,AM
+brochantite,AM
+chalcanthite,AM
+chalcedony,AM
+chlorite,AM
+chlorite-sericite,AM
+chrysocolla,AM
+clay,AM
+clinopyroxene,AM
+coarse brown biotite,AM
+corundum,AM
+crandellite,AM
+crystallized zircons,AM
+diaspore,AM
+dickite,AM
+dolomite,AM
+dravite,AM
+dumortierite,AM
+epidote,AM
+felsic,AM
+fluorite,AM
+fluorspar,AM
+gamet,AM
+gangue,AM
+garnet,AM
+grandite,AM
+green-brown garnet,AM
+gypsum,AM
+hydromica,AM
+hydromuscovite,AM
+hydrothermal biotite,AM
+hydrothermal chlorite,AM
+illite,AM
+kaolinite,AM
+keatite,AM
+K-feldspar,AM
+malachite,AM
+mica,AM
+micaceous quartz,AM
+montmorillonite,AM
+muscovite,AM
+Na-K-feldspar,AM
+ocher,AM
+olivine,AM
+opal,AM
+ophiolite,AM
+orthopyroxene,AM
+patchy biotite,AM
+phengitic muscovite,AM
+phlogopite,AM
+plagioclase,AM
+polymetallic quartz,AM
+polymetallic quartz (PMQ),AM
+pseudomalachite,AM
+pyrophyllite,AM
+pyroxene-biotite,AM
+quartz,AM
+quartz diorite,AM
+quartz–alunite,AM
+quartz-carbonate,AM
+quartz-dickite,AM
+quartz-kaolinite,AM
+quartz-muscovite,AM
+quartz-potash,AM
+quartz-pyrophyllite-diaspore-illite,AM
+quartz-sericite,AM
+quartz-sericite-pyrite,AM
+quartz-sericite-tourmaline,AM
+quartz-tourmaline,AM
+rutile,AM
+Secondary biotite,AM
+sericite,AM
+sericite-adularia,AM
+sericite-hydromuscovite-illite,AM
+sericites,AM
+smectites,AM
+sphene,AM
+svanbergite,AM
+szaibelyite,AM
+tephrytes,AM
+thaumasite,AM
+thenardite,AM
+topaz,AM
+tourmaline,AM
+turquoise,AM
+white mica,AM
+wollastonite,AM
+woodhousite,AM
+zeolite,AM
+zunyite,AM
+,
+Al-in-hornblende,ANIN
+barometer,ANIN
+binocular,ANIN
+binocular microscope,ANIN
+Cameca SX50 electron,ANIN
+Carius tube,ANIN
+Dilor,ANIN
+Dilor SuperLabram laser,ANIN
+double Os,ANIN
+Elan,ANIN
+electron,ANIN
+electron microscope,ANIN
+ElectroScan ESEM2020 scanning,ANIN
+EMP,ANIN
+energy,ANIN
+Faraday collectors,ANIN
+Frantz,ANIN
+gas chromatograph analyses,ANIN
+ICP-MS,ANIN
+inductively coupled plasma,ANIN
+ion,ANIN
+laser Raman microprobe,ANIN
+LMA-10,ANIN
+MAP 216 spectrometer,ANIN
+Merchantek LUX266 ultraviolet,ANIN
+Micromass Isoprobe multicollector ICP-MS,ANIN
+Micromass Sector 54,ANIN
+microscope,ANIN
+multi-collector inductively,ANIN
+Oxford Link Pentafet,ANIN
+petrographic microscope,ANIN
+PIMA,ANIN
+portable infrared,ANIN
+radiogenic isotope facility,ANIN
+Raman,ANIN
+SAES getters,ANIN
+SEM,ANIN
+spectrometer,ANIN
+ultraviolet,ANIN
+VG 54 mass spectrometer,ANIN
+,
+(La/Yb)-YbN,ANME
+318OH2O,ANME
+3Stable-isotope,ANME
+65Cu,ANME
+87Sr/86Sr,ANME
+8D,ANME
+Al-in-hornblende,ANME
+anion chromatography techniques,ANME
+Ar–Ar,ANME
+As-Sb,ANME
+atomic,ANME
+Barth's,ANME
+Carius tube method,ANME
+chromatographic purification,ANME
+Copper Isotope,ANME
+directly measured method,ANME
+distillation,ANME
+drill,ANME
+electron,ANME
+emission,ANME
+equilibrium fluid-mineral,ANME
+equilibrium fractionation,ANME
+equilibrium isotopic,ANME
+Eu*/Eu,ANME
+flame,ANME
+fluid inclusion method,ANME
+fluid inclusion microthermometry,ANME
+fluid-mineral isotopic,ANME
+Fractionation,ANME
+fractionations,ANME
+gamma-ray response,ANME
+geobarometry,ANME
+gravity anomalies,ANME
+ICPMS,ANME
+indirect fractionation,ANME
+ion exchange,ANME
+ion-selective,ANME
+isotope analysis,ANME
+isotope dilution mass,ANME
+Isotopic fractionation,ANME
+K*Ar,ANME
+K/Ba,ANME
+K/Rb,ANME
+KAr,ANME
+K-Ar,ANME
+La/Yb,ANME
+LA-ICP-MS,ANME
+laser,ANME
+laser-ablation analysis,ANME
+mass,ANME
+mass fractionation,ANME
+metallurgical,ANME
+microanalysis,ANME
+microdistillation,ANME
+microprobe,ANME
+microthermometry,ANME
+mineral-fluid equlibrium method,ANME
+Nd-Sr,ANME
+negative thermal ion mass,ANME
+negative thermal ionization,ANME
+N-TIMS,ANME
+OH-F-Cl,ANME
+oxygen-isotope,ANME
+potassium-argon,ANME
+Raman,ANME
+Rb/Ba,ANME
+Rb-Sr,ANME
+Rb-Sr isochron,ANME
+Re-Os,ANME
+Re-Os isochron,ANME
+Rubidium-strontium,ANME
+sample solution,ANME
+Sb-W-Cu,ANME
+semiquantitative,ANME
+sensitive high-resolution,ANME
+SHRIMP,ANME
+SHRIMP U-Pb,ANME
+single-grain zircon,ANME
+single-zircon age,ANME
+single-zircon U-Pb,ANME
+Sm-Nd,ANME
+solvent extraction,ANME
+spectrography,ANME
+Sr/Y,ANME
+Sr-Nd,ANME
+Sr-Nd-Pb,ANME
+stable isotope compositions,ANME
+Stable-isotope,ANME
+thermo barometry,ANME
+thermo gravimetric,ANME
+thermo metry,ANME
+U/Th,ANME
+U・Pb,ANME
+U-Pb,ANME
+U–Pb zircon,ANME
+U-Th-Pb,ANME
+X-ray,ANME
+XRD,ANME
+zircon,ANME
+Zn-Ag,ANME
+δ18OH2O,ANME
+δ18Owater,ANME
+δ34S,ANME
+δ34SVCDT,ANME
+δ65Cu,ANME
+δD,ANME
+ε65Cu,ANME
+,
+Andrew W,AUTH
+Antonijevic´,AUTH
+ARKOLD,AUTH
+Arnold,AUTH
+Arsovski,AUTH
+B. Weber,AUTH
+Balce,AUTH
+Balintoni,AUTH
+Balla,AUTH
+Baluda,AUTH
+Bayraktarov,AUTH
+Bellon,AUTH
+Bernhardt,AUTH
+Berza,AUTH
+Bleahu,AUTH
+Bocaletti,AUTH
+Burchfie,AUTH
+C. Orssich,AUTH
+C. Panther,AUTH
+C.N. Forster,AUTH
+Chivas,AUTH
+CHUNMING HAN,AUTH
+Cioflica,AUTH
+Clark,AUTH
+Constantinescu,AUTH
+Cornejo,AUTH
+Cotta,AUTH
+Csontos,AUTH
+D. Crane,AUTH
+D. Garamjav,AUTH
+D.J. Kirwin,AUTH
+Daieva,AUTH
+DAVID R,AUTH
+Daxing,AUTH
+Defant,AUTH
+Dequan,AUTH
+Dewey,AUTH
+Dilles,AUTH
+Dixon,AUTH
+Djordjevic,AUTH
+Dumurdzanov,AUTH
+F. Barra,AUTH
+Fernandez,AUTH
+Fournier,AUTH
+Frances,AUTH
+Frysch,AUTH
+G. Gehrels,AUTH
+G. Niislelkhuu,AUTH
+Gao,AUTH
+Gappe,AUTH
+Garamjav,AUTH
+Gerel O,AUTH
+Gheorghitescu,AUTH
+Gîrbacea,AUTH
+Giu,AUTH
+Gius¸ca˘,AUTH
+GONZALO,AUTH
+Grubic´,AUTH
+GUOCHUN ZHAO,AUTH
+Gustafson,AUTH
+Hedenquist,AUTH
+Hertz,AUTH
+Hobart,AUTH
+HOLLY STEIN,AUTH
+HORTON,AUTH
+Hun,AUTH
+Hunt,AUTH
+I. Kavalieris,AUTH
+I.Ye.,AUTH
+Istrate,AUTH
+J. Chesley,AUTH
+J. Ruiz,AUTH
+JAMES CANNELL,AUTH
+Jankovic´,AUTH
+Jinghe,AUTH
+JOHN L,AUTH
+Jones,AUTH
+Karamata,AUTH
+Kazahaya,AUTH
+Keyao,AUTH
+KIERRAN C,AUTH
+Kirwin D.J,AUTH
+Koopmann,AUTH
+Kräutner,AUTH
+Kuikin,AUTH
+LANG AND CHRISTOPHER,AUTH
+Li,AUTH
+Linzer,AUTH
+Lips,AUTH
+Lupu,AUTH
+M.,AUTH
+M. Lopez-Martinez,AUTH
+Ma,AUTH
+MAHER,AUTH
+Maier,AUTH
+Mark E.,AUTH
+MARKE. CONRAD,AUTH
+Marton,AUTH
+Mason,AUTH
+Mat¸enco,AUTH
+McWilliams,AUTH
+Mitchell,AUTH
+Morley,AUTH
+Mungall,AUTH
+Neubauer,AUTH
+P.V.,AUTH
+Pa˘tras¸cu,AUTH
+Panaiotu,AUTH
+Papanikolau,AUTH
+PATRICIO,AUTH
+PETER B,AUTH
+Piestrzynski,AUTH
+Popov,AUTH
+Proffett,AUTH
+Qin,AUTH
+R˘adulescu,AUTH
+Ra˘,AUTH
+Rapp,AUTH
+Ratschbacher,AUTH
+Rechnitz,AUTH
+Robertson,AUTH
+Roedder,AUTH
+Rosa-Maria Prol-Ledesma,AUTH
+Russo-Sandulescu,AUTH
+S˘andulescu,AUTH
+Sa˘,AUTH
+Saez,AUTH
+Sajona,AUTH
+Sanders,AUTH
+Savu,AUTH
+sc˘a,AUTH
+Schiano,AUTH
+Schmid,AUTH
+Seltmann R,AUTH
+Serafica,AUTH
+Serafimovski,AUTH
+Severin,AUTH
+Shengör,AUTH
+Shinohara,AUTH
+Sillitoe,AUTH
+Skenderov,AUTH
+Son,AUTH
+Stanisheva-Vassilieva,AUTH
+Sterner,AUTH
+STEVEN,AUTH
+Sugaki,AUTH
+T.O. Munkhbat,AUTH
+Tanaka,AUTH
+Tarkian,AUTH
+Tasmania,AUTH
+Tauern,AUTH
+TIEPING LI,AUTH
+Togashi,AUTH
+Urashima,AUTH
+V. H.,AUTH
+V.A. Valencia,AUTH
+Vardar,AUTH
+Vassiliev,AUTH
+Vicinity,AUTH
+Vlad,AUTH
+von,AUTH
+Wang,AUTH
+Xu,AUTH
+Yanagisawa,AUTH
+Yiming,AUTH
+Yu.I.,AUTH
+Zhang,AUTH
+ZHENGYU BAO,AUTH
+Zilin,AUTH
+,
+Agua Amarga,CITY
+Almalyk,CITY
+Auckland,CITY
+Baguio,CITY
+Baja,CITY
+Batan,CITY
+Beijing,CITY
+Belgrade,CITY
+Berkeley,CITY
+Bingham,CITY
+Bisbee,CITY
+Brisbane,CITY
+Burgas,CITY
+Cananea,CITY
+Canberra,CITY
+Carpentaria,CITY
+Chelopech,CITY
+Chino,CITY
+Chulec,CITY
+Clifton,CITY
+Codegua,CITY
+Copiapo,CITY
+Courtland-Gleeson,CITY
+Creede,CITY
+Darwin,CITY
+Dawson,CITY
+Daye,CITY
+Denver,CITY
+DEXING,CITY
+Diliman,CITY
+Dinkidi,CITY
+Edmonton,CITY
+Fort Collins,CITY
+Freiberg,CITY
+Fukuoka,CITY
+Gaspe,CITY
+Goyllarisquizga,CITY
+Gracemere,CITY
+Guangzhou,CITY
+Guerrero Negro,CITY
+Gympie,CITY
+Hami,CITY
+Hanover,CITY
+Hanover–Fierro,CITY
+Hong Kong,CITY
+Huainan,CITY
+Hualgayoc,CITY
+Iloilo,CITY
+Indio,CITY
+Jiangshan,CITY
+Jingxi,CITY
+Jinning,CITY
+Julcani,CITY
+Kemess,CITY
+Kingman,CITY
+Koloula,CITY
+London,CITY
+Madison,CITY
+Manila,CITY
+Miami,CITY
+Montreal,CITY
+Muang Ake,CITY
+Munich,CITY
+Nazca,CITY
+Ningxiang,CITY
+Panagyurishte,CITY
+Panguna,CITY
+Perth,CITY
+Pullman,CITY
+Quezon,CITY
+Rockhampton,CITY
+San Diego,CITY
+Santa,CITY
+Santiago,CITY
+Shanghang,CITY
+Shaoxing,CITY
+Shijiazhuang,CITY
+Skouries,CITY
+Sozopol,CITY
+Steamboat,CITY
+Summitville,CITY
+Sydney,CITY
+Tbquepala,CITY
+Townsville,CITY
+Trondheim,CITY
+Tucson,CITY
+Ulaan Baatar,CITY
+Vancouver,CITY
+WENWU,CITY
+Wuhan,CITY
+Yerington,CITY
+Zürich,CITY
+,
+Africa,CONT
+Asia,CONT
+Asian,CONT
+Australian,CONT
+Eurasian,CONT
+Europe,CONT
+European,CONT
+India-Asia,CONT
+Pacific,CONT
+,
+American,COUN
+Australia,COUN
+Australian,COUN
+Austrian,COUN
+British,COUN
+Bulgaria,COUN
+Bulgarian,COUN
+Canada,COUN
+Canadian,COUN
+Chile,COUN
+China,COUN
+Chinese,COUN
+Columbia,COUN
+Croatia,COUN
+El Salvado,COUN
+El Salvador,COUN
+England,COUN
+FYROM,COUN
+Germany,COUN
+Greece,COUN
+Guinea,COUN
+Hungary,COUN
+Inca,COUN
+India,COUN
+Indian,COUN
+Indonesia,COUN
+JAPAN,COUN
+Kazakhstan,COUN
+Kyrgyzstan,COUN
+Macedonia,COUN
+Malaysia,COUN
+Mexico,COUN
+Mongolia,COUN
+Mongolian,COUN
+Norway,COUN
+Papua New Guinea,COUN
+Papuan,COUN
+Perú,COUN
+Philippine,COUN
+Philippines,COUN
+Roman,COUN
+Romania,COUN
+Romanian,COUN
+Russian,COUN
+Serbia,COUN
+Serbian,COUN
+Slovakia,COUN
+Spain,COUN
+Sweden,COUN
+Switzerland,COUN
+Thailand,COUN
+Turkey,COUN
+U.S.,COUN
+Ucraina,COUN
+Ulaan Baatar,COUN
+USA,COUN
+USSR,COUN
+Uzbekistan,COUN
+Yugoslavia,COUN
+,
+Aitik,DN
+Almalyk,DN
+Alum Wash,DN
+Andromache,DN
+Anduramba,DN
+Ansil,DN
+Antamok,DN
+Antapaccay,DN
+Antares,DN
+Antares Complex,DN
+Atbalmin,DN
+Baishan,DN
+Bald,DN
+Bank,DN
+Barrabas,DN
+Batu,DN
+Batu Hijau,DN
+Beaver Harrison,DN
+Bell Copper,DN
+Berserker,DN
+BGMR,DN
+Bingham,DN
+Bisbee,DN
+Blenheim,DN
+Bolivip,DN
+Bone,DN
+Boshche-Kul,DN
+Bowen,DN
+Brenda,DN
+Buckingham,DN
+Butte,DN
+C.O.D. mine,DN
+Canadian,DN
+Cananea,DN
+Cananea-Duluth,DN
+carbonate,DN
+Cash,DN
+Casino,DN
+Casino deposit,DN
+Catheart,DN
+Ccatun Pucara,DN
+Chala Au epithermal,DN
+Chala deposit,DN
+Chihu,DN
+Chillagoe,DN
+Chilongfeng,DN
+Chinaman,DN
+Chinkuashih,DN
+Chuquicamata,DN
+Cia,DN
+Coalstoun,DN
+Colorada,DN
+Coroccohuayco,DN
+Curtis,DN
+Darai,DN
+Drummond,DN
+East Sanchakou,DN
+East Tuwu,DN
+East Xiaopu,DN
+El,DN
+El Arco,DN
+El Arco–Calmalli,DN
+El Salvador,DN
+El Teniente,DN
+Elisa,DN
+enargite/luzonite,DN
+Endeavor,DN
+Enoggera,DN
+Eocene Mount Skukum,DN
+epithermal,DN
+Erhongwa,DN
+Eungella,DN
+Evandale,DN
+Frieda River,DN
+FSE,DN
+FSE–Lepanto,DN
+Fubilan,DN
+Fubilan Stock,DN
+Futik,DN
+Futik Stock,DN
+Granisle,DN
+Grasberg,DN
+Gunung Bijih,DN
+Hall,DN
+Hongshan,DN
+HSand,DN
+Huangshan,DN
+Huangshandong,DN
+Hugo,DN
+Hugo Dummett,DN
+Hulu plutons,DN
+Island Copper,DN
+Ithaca Peak,DN
+Iwato,DN
+Kamaishi,DN
+Kharmagtai,DN
+Kingking,DN
+Kitsault,DN
+Knight,DN
+Kounrad,DN
+Kum Kom,DN
+Kutim,DN
+La Verde,DN
+La Verde-Inguaran,DN
+Lepanto-FSE,DN
+Limonite,DN
+Linglong,DN
+Lingtietan,DN
+Little Ithaca,DN
+Lobo,DN
+Lolworth-Ravenswood,DN
+Longreach,DN
+Los,DN
+Los Mantos,DN
+Magma mine,DN
+Mamut,DN
+Mancita,DN
+Mariner,DN
+Marion,DN
+Markov,DN
+Martinsson,DN
+Mary,DN
+Mayflower,DN
+Moonmera,DN
+Morenci,DN
+Morrison,DN
+Mount,DN
+Mount Emmons,DN
+Mount Fubilan,DN
+Mount Ian,DN
+Mount Nansen,DN
+Mount Nansen deposits,DN
+Mt. Nansen,DN
+New Mexico,DN
+Nong River,DN
+Ok Tedi,DN
+Olgal,DN
+Olgal Stock,DN
+Om Beds,DN
+OYU TOLGOI,DN
+Panguna,DN
+Park,DN
+Proserpine,DN
+Qi’eshan,DN
+Quechas,DN
+Radomiro,DN
+Rattatat,DN
+Ravenswood,DN
+Red Mountain,DN
+Resolution,DN
+Ridgeway,DN
+Rio Blanco Cu-Mo,DN
+Rockhampton,DN
+Ruddygore,DN
+Saje,DN
+Sally,DN
+San Andres–Cedros,DN
+Sanchakou,DN
+Sandy,DN
+Santa Marta,DN
+Santa Rita,DN
+Santo,DN
+Senonian,DN
+Shabei,DN
+Shaquanzi,DN
+Spaheivo ore district,DN
+Spar Lake,DN
+Star Mountains,DN
+Struck,DN
+Swain,DN
+Tabe,DN
+Tasman,DN
+Tbngchang,DN
+Tbngchang porphyry copper deposit,DN
+Teniente,DN
+the Arizona Magma,DN
+the C.O.D. mine,DN
+the Champion mine,DN
+The Dexing porphyry copper,DN
+The El,DN
+the Fujiawu deposit,DN
+the Golconda mines,DN
+The Ithaca Peak,DN
+the Jamison mine,DN
+the Jurassic Carmel,DN
+the longchang deposit,DN
+the Panguna deposit,DN
+The Permian Kaibab,DN
+The Potrerillos,DN
+The Rio Blanco-Los,DN
+the Spahievo ore,DN
+the Tbngchang deposit,DN
+the Tennessee mine,DN
+The Tennessee-Schuylkill,DN
+the Tongchang deposit,DN
+the Tongchang porphyry copper,DN
+the Towne mine,DN
+the Zhushahong deposit,DN
+Tifalmin,DN
+Tintaya,DN
+Tintaya deposits,DN
+Tintaya mine,DN
+Tongchang deposit,DN
+Tongchang porphyry copper deposit,DN
+Town,DN
+Tsagaan Suvarga,DN
+Tudun,DN
+Tuwu,DN
+Tuwu copper,DN
+Tuwu deposit,DN
+Tuwu-Yandong,DN
+Unfin,DN
+Wallapai,DN
+Whitsunday,DN
+Wingfield,DN
+Wu Zu,DN
+Xiangshan,DN
+Xiaopu,DN
+Yamansu,DN
+Yandong,DN
+Yarrol,DN
+Yaziquan,DN
+Yeppoon,DN
+Zijinshan,DN
+,
+Ag,EE
+Au,EE
+copper,EE
+Cu,EE
+gold,EE
+lead,EE
+Mo,EE
+molybdenum,EE
+Pb,EE
+potassium,EE
+Sb,EE
+silver,EE
+Sn,EE
+tungsten,EE
+W,EE
+zinc,EE
+Zn,EE
+,
+aeromagnetic,EXP
+aeromagnetic map,EXP
+calc-silicate mineralogy,EXP
+detailed logging,EXP
+drill,EXP
+drill core,EXP
+drill hole,EXP
+electron microprobe,EXP
+Fractionation,EXP
+Geochemical,EXP
+geochemistry,EXP
+Geologic,EXP
+Geosciences,EXP
+geotechnical reports,EXP
+hand sample,EXP
+Infrared absorption,EXP
+lithology,EXP
+Microprobe analyses,EXP
+microscopy,EXP
+mineralogical,EXP
+mineralogy,EXP
+palaeogeographic,EXP
+palaeomagnetic,EXP
+palaeostress,EXP
+permeability,EXP
+petrographic,EXP
+PIMA analyses,EXP
+staining,EXP
+stereonets,EXP
+structural maps,EXP
+temporal analysis,EXP
+thermodynamic,EXP
+thin section,EXP
+vein orientation,EXP
+,
+aqueous fluid inclusions,FI
+fluid inclusion,FI
+fluid inclusions,FI
+magmatic inclusions,FI
+melt inclusions,FI
+,
+aqueous,FS
+chloride-rich fluids,FS
+H2O- and salt-rich,FS
+H2O- KCI system,FS
+H2O-NaCl,FS
+H2O-NaCl-KCl system,FS
+high-salinity,FS
+liquid,FS
+liquid-rich,FS
+liquid-vapor,FS
+low- salinity magmatic,FS
+magmatic,FS
+magmatic-hydrothermal,FS
+moderate salinity,FS
+NaCl- KC1-H2O system,FS
+NaCl–H2O,FS
+Na-rich,FS
+primary fluid,FS
+salinity significantly,FS
+salt-rich fluids,FS
+salt-rich liquid,FS
+the H2O-FeC13 system,FS
+the system NaCl-H2O,FS
+vapor,FS
+vapor dominated,FS
+vapor-rich,FS
+visibly separate CO2-rich,FS
+water-rich liquid,FS
+weakly acid,FS
+basalt flows,FS
+chloride-rich,FS
+epithermal,FS
+exsolving,FS
+highly saline fluids,FS
+high-salinity fluid,FS
+high-temperature hydrothermal,FS
+hydrothermal,FS
+hydrothermal fluids,FS
+hypersaline brines,FS
+magmatic brine,FS
+magmatic fluid,FS
+melt-fluid,FS
+postmagmatic fluid,FS
+rhyolitic magmatism,FS
+saline fluids,FS
+silicate contents,FS
+xenoliths,FS
+abyssal source,FS
+aqueous fluid,FS
+aqueous vapor,FS
+biotite-matrix hydrothermal,FS
+EB,FS
+exoskarn-forming fluids,FS
+groundwaters,FS
+heated meteoric waters,FS
+high salinity,FS
+hypersaline,FS
+magma,FS
+magmatic,FS
+meteoric,FS
+meteoric origin,FS
+meteoric water,FS
+meteoric-hydrothermal,FS
+meteorological water,FS
+nonboiling high-salinity fluids,FS
+SGE gas-flow heating,FS
+Th,FS
+TM,FS
+,
+accretionary,GEOSTR
+Andean-type arc,GEOSTR
+annular,GEOSTR
+anticlinorium,GEOSTR
+apophysies,GEOSTR
+Aqikekudouke faults,GEOSTR
+arc,GEOSTR
+arc-transverse structures,GEOSTR
+basin-bounding structure,GEOSTR
+batholith,GEOSTR
+Bihor,GEOSTR
+Borovitsa caldera,GEOSTR
+brittle-ductile shear,GEOSTR
+caldera,GEOSTR
+caldera collapse,GEOSTR
+caldera-related ring fractures,GEOSTR
+calderas,GEOSTR
+Capote,GEOSTR
+Casino Plutonic Suite,GEOSTR
+closure,GEOSTR
+Codegua fault,GEOSTR
+Colorada,GEOSTR
+concentric,GEOSTR
+crack,GEOSTR
+Daur-Khentey,GEOSTR
+Dawson Range batholith,GEOSTR
+dipping,GEOSTR
+dipping fractures,GEOSTR
+dome,GEOSTR
+domes,GEOSTR
+ductile shear,GEOSTR
+Elisa,GEOSTR
+ensialic,GEOSTR
+fault,GEOSTR
+fault array,GEOSTR
+fault zones,GEOSTR
+faulting,GEOSTR
+faults,GEOSTR
+fissure,GEOSTR
+fissures,GEOSTR
+fold,GEOSTR
+folding,GEOSTR
+folds,GEOSTR
+foliated metavolcanic,GEOSTR
+fracture,GEOSTR
+fractured,GEOSTR
+fractures,GEOSTR
+island-arc,GEOSTR
+joints,GEOSTR
+Kalamaili-Maiqinwula,GEOSTR
+Kangguer,GEOSTR
+Kangguer fault,GEOSTR
+Kushui,GEOSTR
+Lachlan Fold,GEOSTR
+linear,GEOSTR
+master faults,GEOSTR
+Muller anticline,GEOSTR
+northeast Teniente,GEOSTR
+oara-Brusturi-Poiana,GEOSTR
+ore-controlling fractures,GEOSTR
+orogenic,GEOSTR
+Pinatubo,GEOSTR
+Prospector Mountain Plutonic,GEOSTR
+Prospector Mountain Suite,GEOSTR
+Qiugemingtashi-Huangshan,GEOSTR
+radial,GEOSTR
+replacement textures,GEOSTR
+reverse faults,GEOSTR
+rhyolite domes,GEOSTR
+Ridanj-Krepoljin,GEOSTR
+rifting,GEOSTR
+ring,GEOSTR
+ring-fault,GEOSTR
+ring-fracture,GEOSTR
+Sacramento fault,GEOSTR
+schistosity,GEOSTR
+schistosity cleavages,GEOSTR
+shear,GEOSTR
+shear zones,GEOSTR
+silica rhyolite dome,GEOSTR
+subduction,GEOSTR
+subordinate faults,GEOSTR
+subvertical,GEOSTR
+Subvertical strike,GEOSTR
+suture,GEOSTR
+suture zone,GEOSTR
+syncline,GEOSTR
+TanLu,GEOSTR
+Teniente fault,GEOSTR
+tenso-shear,GEOSTR
+the basin-and-range Sacramento,GEOSTR
+the caldera ring-fracture,GEOSTR
+the Murga caldera,GEOSTR
+thrust-faulted,GEOSTR
+upper,GEOSTR
+volcanic,GEOSTR
+volcanic sequence,GEOSTR
+volcanic-plutonic,GEOSTR
+volcano sedimentary sequence,GEOSTR
+volcano-plutonic,GEOSTR
+X-structures,GEOSTR
+,
+Albian,GEOTS
+Aptian–Albian,GEOTS
+Archaean,GEOTS
+Archean,GEOTS
+Bronze,GEOTS
+Callovian,GEOTS
+Cambrian,GEOTS
+Campanian,GEOTS
+Carboniferous,GEOTS
+Carboniferous-Permian,GEOTS
+Cenomanian,GEOTS
+Cenozoic,GEOTS
+Coniacian,GEOTS
+Coniacian-Campanian,GEOTS
+Cretaceous,GEOTS
+Cretaceous–Paleogene,GEOTS
+Cretaceous–Pleistocene,GEOTS
+Cretaceous-Tertiary,GEOTS
+Devoman,GEOTS
+Devonian,GEOTS
+earliest Paleocene,GEOTS
+Early Carboniferous,GEOTS
+early Cenozoic,GEOTS
+Early Cretaceous,GEOTS
+early Eocene,GEOTS
+early Mesozoic,GEOTS
+early Miocene,GEOTS
+early Paleocene,GEOTS
+Early Permian,GEOTS
+early Pleistocene,GEOTS
+early Pliocene,GEOTS
+early Yanshanian,GEOTS
+Early–Middle Jurassic,GEOTS
+Eocene,GEOTS
+Eocene-Oligocene,GEOTS
+Jurassic,GEOTS
+Jurassic-Cretaceous,GEOTS
+Laramide,GEOTS
+Late Archean,GEOTS
+Late Carboniferous,GEOTS
+Late Cretaceous,GEOTS
+Late Devonian,GEOTS
+Late Jurassic,GEOTS
+late Miocene,GEOTS
+late Miocene-Pliocene,GEOTS
+late Oligocene,GEOTS
+Late or mid-Cretaceous,GEOTS
+Late Paleozoic,GEOTS
+Late Proterozoic,GEOTS
+Late Triassic,GEOTS
+latest Cretaceous,GEOTS
+latest Miocene,GEOTS
+Lower Carboniferous,GEOTS
+Lower Cretaceous,GEOTS
+Lower Devonian,GEOTS
+Lower Jurassic,GEOTS
+Maastrictian,GEOTS
+Mesozoic,GEOTS
+Mesozoic-Cenozoic,GEOTS
+Mesozoic-Tertiary,GEOTS
+Mid Paleozoic,GEOTS
+midCarboniferous,GEOTS
+Mid-Cretaceous,GEOTS
+mid-Devonian,GEOTS
+Middle Carboniferous,GEOTS
+Middle Devonian,GEOTS
+Middle Jurassic,GEOTS
+middle Miocene,GEOTS
+Middle–Late Jurassic,GEOTS
+middle-Miocene,GEOTS
+mid-late Miocene,GEOTS
+Mid-Miocene,GEOTS
+Mid-Paleozoic,GEOTS
+mid-Pliocene,GEOTS
+mid-Tertiary,GEOTS
+Miocene,GEOTS
+Miocene–Pliocene,GEOTS
+Neocomian,GEOTS
+Neogene,GEOTS
+Older Eocene,GEOTS
+Oligocene,GEOTS
+Ordovician,GEOTS
+Palaeozoic,GEOTS
+Paleocene,GEOTS
+Paleocene-Oligocene,GEOTS
+Paleoproterozoic,GEOTS
+Paleozoic,GEOTS
+Permian,GEOTS
+Permo,GEOTS
+Permo-Triassic,GEOTS
+Phanerozoic,GEOTS
+Pleistocene,GEOTS
+Pliocene,GEOTS
+Pliocene-Quaternary,GEOTS
+Plio-Pleistocene,GEOTS
+post-Darai,GEOTS
+post-Paleozoic,GEOTS
+post-Permian,GEOTS
+post-Triassic,GEOTS
+Precambrian,GEOTS
+Pre-Cambrian,GEOTS
+Precambrian-Caledonian,GEOTS
+pre-Mesozoic,GEOTS
+Pre-Sinian,GEOTS
+Pre-Tertiary,GEOTS
+Proterozoic,GEOTS
+Quaternary,GEOTS
+Silurian,GEOTS
+Silurian-Triassic,GEOTS
+Siluro,GEOTS
+Siluro-Devonian,GEOTS
+Sinian,GEOTS
+Sonoma,GEOTS
+Svecofennian,GEOTS
+Tertiary,GEOTS
+Triassic,GEOTS
+Triassic–Jurassic,GEOTS
+Turonian,GEOTS
+upper Cretaceous,GEOTS
+Upper Jurassic,GEOTS
+Upper Triassic,GEOTS
+Yanshan,GEOTS
+younger Eocene,GEOTS
+,
+Alisitos and Vizcaino terranes,GEOUN
+Alisitos Formation,GEOUN
+Alisitos terrane,GEOUN
+Antares Complex,GEOUN
+Aqikbulake,GEOUN
+Aqishan,GEOUN
+batholitic units,GEOUN
+Berserker,GEOUN
+C1g,GEOUN
+C1w,GEOUN
+C1x,GEOUN
+C1y,GEOUN
+Campana,GEOUN
+Chilean flat-slab segment,GEOUN
+Choyal and Alisitos formations,GEOUN
+Coastal,GEOUN
+Cobar-Inglewood,GEOUN
+Cochimi,GEOUN
+Cochimi and Yuma terranes,GEOUN
+Cochimi–Yuma,GEOUN
+Coya-Machali,GEOUN
+Cretaceous Alisitos terrane,GEOUN
+Curtis,GEOUN
+Dahalajunshan,GEOUN
+Danhu,GEOUN
+Farellones,GEOUN
+Feing Group,GEOUN
+Ferrobamba,GEOUN
+flat-lying sequence,GEOUN
+Franciscan Formation,GEOUN
+Gandun,GEOUN
+Gracemere,GEOUN
+Guerrero Terrane,GEOUN
+Gurvansayhan terrane,GEOUN
+Henrietta,GEOUN
+Holly,GEOUN
+Hornitos Formation,GEOUN
+Kuabgen Group,GEOUN
+Kushui,GEOUN
+Llanta Formation,GEOUN
+Lolworth-Raven,GEOUN
+Lolworth-Ravenswood,GEOUN
+LOWER,GEOUN
+Mara,GEOUN
+Mariquita,GEOUN
+Mesa,GEOUN
+Mount Ian Complexes,GEOUN
+Om Beds,GEOUN
+ore-hosting stratum,GEOUN
+Oxide,GEOUN
+Pelambres,GEOUN
+Peninsular Range batholith,GEOUN
+Pioneer,GEOUN
+Pnyang,GEOUN
+Pnyang Formation,GEOUN
+prebatholitic,GEOUN
+prebatholitic basement,GEOUN
+Pugo,GEOUN
+Qi’eshan,GEOUN
+Razorback,GEOUN
+Rockhampton,GEOUN
+Rosario,GEOUN
+Santa Ana terrane,GEOUN
+Sierra Fraga,GEOUN
+Structure Foliations,GEOUN
+terranes,GEOUN
+Thaynes,GEOUN
+Tousuan,GEOUN
+upper,GEOUN
+Vizcaino,GEOUN
+Vizcaino–Alisitos terranes,GEOUN
+Wandilia,GEOUN
+Wutongwozi,GEOUN
+Xiaorequanzi,GEOUN
+Yanmansu,GEOUN
+Yarrol,GEOUN
+Yuma terrane,GEOUN
+Zigzag,GEOUN
+Zigzag-Pugo,GEOUN
+,
+ancient Tianshan,GGS
+Aqishan-Yamansu,GGS
+arc-related volcanic,GGS
+Australian Plate,GGS
+back-arc,GGS
+Cathaysia block,GGS
+Central-Asia,GGS
+Circum-Pacific Rim,GGS
+continent-arc,GGS
+crust,GGS
+crustal,GGS
+Czywczyn-Ceahla˘,GGS
+Dananhu-Tousuquan,GGS
+epicontinental,GGS
+graben,GGS
+graben-like,GGS
+Hallstadt-Meliata,GGS
+Hodgkinson-Broken,GGS
+intraoceanic arc,GGS
+intraplate,GGS
+island,GGS
+island arc,GGS
+island-arc,GGS
+Izmir-Ankara,GGS
+Junggar,GGS
+Junggar-Kazakhstan block,GGS
+Junggar-Kazakhstan composite,GGS
+Kazakhstan-Junggar,GGS
+Kula plate,GGS
+magmatic arc,GGS
+magmatic island arc,GGS
+mantle,GGS
+ocean basins,GGS
+oceanic,GGS
+oceanic arc,GGS
+oceanic island arc,GGS
+orogenic,GGS
+Pacific,GGS
+Pacific margin,GGS
+palaeo-oceans,GGS
+Paleo-Tianshan ocean,GGS
+Pannonian,GGS
+Philippine,GGS
+Ridanj-Krepoljin,GGS
+Sawur-Aermantai,GGS
+Serbo-Macedonian,GGS
+Severin-Krajina,GGS
+subduction,GGS
+Tarim craton,GGS
+Tarim cratons,GGS
+Tasman,GGS
+thin continental,GGS
+tholeiitic arc,GGS
+Thomson,GGS
+Transylvanian,GGS
+Trojan-Niˇs-Krajina-SeverinCeahla˘,GGS
+Tu-Ha,GGS
+Tulasu,GGS
+,
+absarokite,IR
+adakite,IR
+adakites,IR
+adakitic,IR
+alaskite,IR
+andesite,IR
+andesite porphyry,IR
+andesite-dacite,IR
+andesites,IR
+andesitic,IR
+andesitic-trachyandesitic,IR
+andesitoid,IR
+andesitoids,IR
+aplite,IR
+apogranitoid,IR
+apoporphyrite,IR
+augite basalt,IR
+basalt,IR
+basaltic,IR
+basaltic volcanics,IR
+basalts,IR
+basanites,IR
+biotite quartz monzonite,IR
+caldera-rim rhyolites,IR
+dacite,IR
+dacite porphyry,IR
+dacites,IR
+dacitic,IR
+dacitic tuffs,IR
+diabase,IR
+Diana Granite,IR
+diorite,IR
+diorite porphyries,IR
+diorites,IR
+dioritic,IR
+dioritic porphyry,IR
+felsite,IR
+gabbro,IR
+gabbro-diorite,IR
+gabbro-diorite-granite,IR
+gabbroic,IR
+gabbroic-dioritic,IR
+gabbro-monzonite-syenite,IR
+granite,IR
+granite porphyry,IR
+granites,IR
+granitic,IR
+granitic porphyry,IR
+granitic rocks,IR
+granitoid,IR
+granitoids,IR
+granodiorite,IR
+granodiorite granite,IR
+granodiorite porphyry,IR
+granodioritegranite,IR
+granodiorites,IR
+granodioritic,IR
+granodioritic porphyry,IR
+granodioritic-dacitic,IR
+granodioritic-granitic,IR
+gray porphyry,IR
+high silica rhyolite,IR
+high-alumina basalt,IR
+hornblende,IR
+hornblende andesite,IR
+hornblende diorites,IR
+hornblende-biotite,IR
+hornblende-biotite diorite,IR
+hornblende-biotite quartz diorite,IR
+hornblende–biotite-bearing granodiorite porphyry,IR
+hornblende–pyroxene diorite,IR
+igneous,IR
+ignimbrite,IR
+ignimbrites,IR
+Imbanguila,IR
+Intermediate-to-felsic,IR
+intracaldera tuffs,IR
+keratophyre,IR
+"L, and A porphyries",IR
+lamprophyre,IR
+lamprophyric,IR
+latite,IR
+latite porphyries,IR
+Latite porphyry,IR
+limburgites,IR
+magnetite-bearing basalts,IR
+magnetite-rich basalt,IR
+microdiorite,IR
+microdiorites,IR
+microgabbro,IR
+microgranodiorite,IR
+monzodiorite,IR
+monzodioritic,IR
+monzogranitic,IR
+monzonite,IR
+monzonites,IR
+monzonitic,IR
+monzonitic porphyries,IR
+MORB,IR
+olivine–pyroxene peridotite,IR
+ophiolite,IR
+pegmatite,IR
+pegmatites,IR
+pegmatitic,IR
+peperite,IR
+peridotite,IR
+peridotites,IR
+picrites,IR
+plagiogranitic,IR
+plagiogranitic porphyry,IR
+porphyries,IR
+Porphyrite,IR
+porphyritic,IR
+porphyritic andesite,IR
+porphyritic augite,IR
+porphyritic breccia-textured rhyolites,IR
+porphyritic latite,IR
+porphyritic microdiorite,IR
+porphyritic monzodiorite,IR
+porphyritic quartz,IR
+porphyritic tonalite,IR
+PORPHYRY,IR
+potash feldspar granite aplite,IR
+precaldera tuffs,IR
+pyroxenite,IR
+quartz diorite,IR
+quartz diorite porphyrite,IR
+quartz monzodiorite,IR
+quartz monzonite,IR
+quartz phenocrysts,IR
+quartz porphyries,IR
+quartz porphyry,IR
+quartz rhyolite,IR
+quartz rhyolites,IR
+quartz rhyolitic,IR
+quartz trachyte,IR
+quartz trachytes,IR
+quartz-bearing porphyries,IR
+quartzdioritic porphyry,IR
+quartz-monzodiorite,IR
+quartz-monzonite,IR
+quartz-plagioclase porphyries,IR
+quartz-plagioclase porphyry,IR
+quartz-plagioclase rhyolite,IR
+quartz-plagioclase rhyolitic,IR
+Quartz-sanidine rhyolite,IR
+rhyodacite,IR
+rhyodacitic,IR
+rhyodacitic-rhyolitic,IR
+rhyolite,IR
+rhyolite tuff,IR
+rhyolites,IR
+rhyolitic,IR
+rhyolitic ash-flow tuffs,IR
+rhyolitic intracaldera tuff,IR
+rhyolitic pyroclastic rocks,IR
+rhyolitic tuff,IR
+rhyolitic tuffs,IR
+shoshonite,IR
+Shoshonitic basalt,IR
+silica rhyolites,IR
+silicic quartz trachyte,IR
+Skarns,IR
+subalkaline,IR
+subporphyritic granitoid,IR
+subvolcanic andesitic,IR
+subvolcanic rhyolitic,IR
+subvolcanic rocks,IR
+syenite,IR
+syenites,IR
+tholeiite,IR
+tholeiitic basalts,IR
+tonalite,IR
+tonalites,IR
+tourmaline-bearing biotite tonalite,IR
+trachyandesite,IR
+trachyandesite-basalt,IR
+trachyandesite-basalts,IR
+trachyandesites,IR
+trachyandesitic,IR
+trachybasalt,IR
+tuff,IR
+tuffs,IR
+vitric tuff,IR
+volcanic,IR
+volcanic complex,IR
+volcanic rocks,IR
+volcanic-granitic,IR
+volcaniclastic,IR
+volcanics,IR
+volcanoclastic rocks,IR
+,
+amphibolite xenoliths,IF
+andesite,IF
+andesite intrusions,IF
+andesitic,IF
+andesitic lava,IF
+bimodal dikes,IF
+biotite breccias,IF
+Braden Breccia,IF
+Braden Pipe,IF
+breccia,IF
+breccia lenses,IF
+breccia pipe,IF
+breccia pipes,IF
+brecciated,IF
+Buena,IF
+Cananea,IF
+Cananea-Duluth,IF
+Capote,IF
+Cerro,IF
+Cerro Pelado,IF
+Clayton,IF
+collapse,IF
+Colorada,IF
+Cornelia,IF
+cylinder-like,IF
+cylindrical,IF
+dacite,IF
+dacite dike,IF
+dacite intrusion,IF
+dacite intrusions,IF
+dacite pipe,IF
+dacite pipes,IF
+dacite porphyry,IF
+Democrata,IF
+diabase dikes,IF
+dike,IF
+dikes,IF
+diorite intrusive,IF
+discrete intrusive,IF
+dyke,IF
+dykes,IF
+equigranular,IF
+felsic intrusion,IF
+felsic intrusions,IF
+felsic intrusive,IF
+Fubilan,IF
+Futik,IF
+gabbroic intrusions,IF
+granitoid bodies,IF
+gravel-bedrock,IF
+Huangshan,IF
+Huangshandong pluton,IF
+Huangshandong plutons,IF
+hydrothermal,IF
+hypabyssal,IF
+intracaldera dikes,IF
+intrusive andesites,IF
+inverted cone,IF
+inward-dipping walls,IF
+Ithaca Peak stocks,IF
+K-bearing inclusions,IF
+Keetley,IF
+lamprophyre dikes,IF
+Laramide granitoid stocks,IF
+Laramide Intrusions,IF
+Laramide rhyolite dikes,IF
+latite dikes,IF
+latite intrusions,IF
+lava,IF
+lava flows,IF
+lavas,IF
+mafic dike,IF
+mafic intrusive,IF
+magmatic inclusions,IF
+Mayflower,IF
+melt inclusions,IF
+melt-fluid inclusion,IF
+Microphenocryst inclusions,IF
+monzonitic,IF
+monzonitic intrusion,IF
+Park,IF
+Pebble dikes,IF
+pegmatitic,IF
+Pilares,IF
+pipe,IF
+pipelike,IF
+pipes,IF
+porphyritic,IF
+PORPHYRY,IF
+porphyry dikes,IF
+porphyry intrusion,IF
+porphyry intrusive stock,IF
+postcollapse intrusion,IF
+postskarn porphyry,IF
+pre-caldera lavas,IF
+pyrrhotite inclusions,IF
+Qi’eshan pluton,IF
+quartz-monzodiorite,IF
+quartz-monzodioritic,IF
+rhyolite dikes,IF
+rhyolitic dikes,IF
+rhyolitic intrusion,IF
+rhyolitic lava,IF
+ring dikes,IF
+Sarnitsa intrusion,IF
+silicic dikes,IF
+silicic stocks,IF
+sill-stock,IF
+Star,IF
+stock,IF
+stocks,IF
+stratovolcano-intrusion,IF
+Teniente plutonic,IF
+the hypersaline inclusions,IF
+Tifalmin stocks,IF
+transgressive-regressive,IF
+Type I inclusions,IF
+volcanic,IF
+volcano-intrusion,IF
+volcano-intrusive,IF
+Xiangshan pluton,IF
+Xiaopu pluton,IF
+X-structures,IF
+,
+~0.85 Ga,ISOAGE
+~1.85 Ga,ISOAGE
+~41-Ma,ISOAGE
+~43 Ma,ISOAGE
+~44 Ma,ISOAGE
+~58 Ma,ISOAGE
+~66 Ma,ISOAGE
+< 1 Ma,ISOAGE
+<1 m.y.,ISOAGE
+>1.7 Ga,ISOAGE
+>58 Ma,ISOAGE
+>78 Ma,ISOAGE
+∼165 M,ISOAGE
+∼166 Ma,ISOAGE
+∼175–200 Ma,ISOAGE
+0.16 Ma,ISOAGE
+0.21-1.02 Ma,ISOAGE
+0.48 Ma,ISOAGE
+1 Ma,ISOAGE
+1.47 Ma,ISOAGE
+1.48 Ma,ISOAGE
+1.5 m.y.,ISOAGE
+1.53 Ma,ISOAGE
+1.89-2.63 Ma,ISOAGE
+1.94 Ma,ISOAGE
+1.99 Ma,ISOAGE
+10 Ma,ISOAGE
+100 k.y.,ISOAGE
+102-104 Ma,ISOAGE
+103 Ma,ISOAGE
+107–93 Ma,ISOAGE
+12 m.y.,ISOAGE
+12.4 Ma,ISOAGE
+1-3 Ma,ISOAGE
+13.24-Ma,ISOAGE
+137 ± 1.4 Ma,ISOAGE
+138 ± 2.5 Ma,ISOAGE
+150Ma,ISOAGE
+161–170 Ma,ISOAGE
+163.0 to 167.5 Ma,ISOAGE
+163.8 to 164.6 Ma,ISOAGE
+163–200 Ma,ISOAGE
+164 ± 2.3 Ma,ISOAGE
+164.1 ± 0.4 Ma,ISOAGE
+164.1 ± 0.4Ma,ISOAGE
+164.4 ± 1.2 Ma,ISOAGE
+164.7 ± 6.5 Ma,ISOAGE
+165 to 175 Ma,ISOAGE
+2.1 Ma,ISOAGE
+2-3 Ma,ISOAGE
+23–15 Ma,ISOAGE
+27.92 Ma,ISOAGE
+2-8 Ma,ISOAGE
+3.8 Ma,ISOAGE
+3.8–2.9 Ma,ISOAGE
+3.8–2.9Ma,ISOAGE
+300 k.y,ISOAGE
+300 ka,ISOAGE
+308.5 Ma,ISOAGE
+31.79± 0.08 Ma,ISOAGE
+31.8 Ma,ISOAGE
+312.1 Ma,ISOAGE
+32 Ma,ISOAGE
+33-650 ka,ISOAGE
+34 Ma,ISOAGE
+356–369 Ma,ISOAGE
+〜36 Ma,ISOAGE
+369–356 Ma,ISOAGE
+370±1.2 Ma,ISOAGE
+4.4 Ma,ISOAGE
+4.70 Ma,ISOAGE
+4.8 Ma,ISOAGE
+4.8–4.4 Ma,ISOAGE
+4.9–3.9 Ma,ISOAGE
+4.9–4.8 Ma,ISOAGE
+40.1 Ma,ISOAGE
+40.4 Ma,ISOAGE
+"41,7 Ma",ISOAGE
+41.8 Ma,ISOAGE
+41.9 Ma,ISOAGE
+42 Ma,ISOAGE
+42.1 M,ISOAGE
+42.9 Ma,ISOAGE
+〜45 Ma,ISOAGE
+48-Ma,ISOAGE
+5.0 Ma,ISOAGE
+5.2–3.9 Ma,ISOAGE
+5.7–4.8 Ma,ISOAGE
+5.89 Ma,ISOAGE
+5.9–4.9 Ma,ISOAGE
+500 k.y.,ISOAGE
+50–70 Ma,ISOAGE
+564 ± 4 Ma,ISOAGE
+58 Ma,ISOAGE
+59.1 Ma.,ISOAGE
+59.5 Ma,ISOAGE
+6.44 Ma,ISOAGE
+6.5 Ma,ISOAGE
+60 Ma,ISOAGE
+61 Ma,ISOAGE
+62±2Ma,ISOAGE
+7 Ma,ISOAGE
+74.5 Ma,ISOAGE
+75 Ma,ISOAGE
+783 Ma,ISOAGE
+819 Ma,ISOAGE
+93 to 138 Ma,ISOAGE
+93.4–127 Ma,ISOAGE
+95.2 ± 0.8 Ma,ISOAGE
+9–7 Ma,ISOAGE
+98–110 Ma,ISOAGE
+,
+^Ar/^Ar,ISOE
+^Ar/39Ar,ISOE
+0Ar/39Ar,ISOE
+13C,ISOE
+143Nd/144Nd,ISOE
+185Re,ISOE
+187Os,ISOE
+187Re,ISOE
+18O,ISOE
+190Os,ISOE
+2%Pb/204Pb,ISOE
+204Pb,ISOE
+206Pb,ISOE
+206Pb*/238U,ISOE
+206Pb/204Pb,ISOE
+206Pb/207Pb,ISOE
+206Pb/238U,ISOE
+206U/238Pb,ISOE
+207Pb,ISOE
+207Pb/204Pb,ISOE
+207Pb/206Pb,ISOE
+207Pb/235U,ISOE
+208Pb,ISOE
+208Pb/204Pb,ISOE
+32S,ISOE
+32S/34S,ISOE
+34S,ISOE
+39Ar,ISOE
+40Ar,ISOE
+40Ar/39Ar,ISOE
+40Ar-39Ar,ISOE
+63Cu,ISOE
+65Cu,ISOE
+84Sr,ISOE
+86Sr,ISOE
+86Sr/88Sr,ISOE
+87Rb,ISOE
+87Sr,ISOE
+88Sr,ISOE
+Ar,ISOE
+Ar40/Ar39,ISOE
+argon,ISOE
+As,ISOE
+Au,ISOE
+B7Sr/B6Sr,ISOE
+Ba,ISOE
+Bi,ISOE
+bismuth,ISOE
+C,ISOE
+carbon,ISOE
+carbon-isotope,ISOE
+Ce,ISOE
+copper,ISOE
+Copper Isotope,ISOE
+copper isotopes,ISOE
+Cr,ISOE
+Cu,ISOE
+Cu Isotope,ISOE
+Cu isotopes,ISOE
+Eu,ISOE
+Eu/Eu,ISOE
+gold,ISOE
+H2O,ISOE
+Hf,ISOE
+HFSE,ISOE
+HREE,ISOE
+hydrogen,ISOE
+iron isotopes,ISOE
+Kd,ISOE
+La,ISOE
+lead,ISOE
+lead isotopes,ISOE
+lead-isotope,ISOE
+Li,ISOE
+LILE,ISOE
+LREE,ISOE
+molybdenum,ISOE
+Nb,ISOE
+Nd,ISOE
+Ni,ISOE
+O,ISOE
+Os,ISOE
+oxygen,ISOE
+Pb,ISOE
+Pd,ISOE
+Pt,ISOE
+R,ISOE
+Rb,ISOE
+Re,ISOE
+REE,ISOE
+S,ISOE
+S isotope,ISOE
+S180,ISOE
+S34,ISOE
+Sm,ISOE
+Sr,ISOE
+Sr-isotope,ISOE
+strontium,ISOE
+sulfur,ISOE
+sulfur-isotope,ISOE
+Ta,ISOE
+Th,ISOE
+Ti,ISOE
+U,ISOE
+V,ISOE
+Y,ISOE
+Yb,ISOE
+Zr,ISOE
+,
+Abitibi,LOCA
+Adelbert,LOCA
+Aegean,LOCA
+Agno,LOCA
+Agua,LOCA
+Agua Caliente,LOCA
+Agusan,LOCA
+Agustin-Santa Marta,LOCA
+Ajo,LOCA
+Aketishikan,LOCA
+Alisitos–El Arco,LOCA
+Alpides-Dinarides-Hellenides,LOCA
+Alpine,LOCA
+Altaids,LOCA
+Altay,LOCA
+Alumbrera,LOCA
+Amphoe Muang,LOCA
+Anakie,LOCA
+Andahuaylas-Yauri,LOCA
+Andean,LOCA
+Andean Cordillera,LOCA
+Andes,LOCA
+Anduramba,LOCA
+Antares,LOCA
+Antofagasta,LOCA
+Appalachian,LOCA
+Apuseni,LOCA
+Apusenides,LOCA
+Ascut,LOCA
+Asientos,LOCA
+Assarel,LOCA
+Atahualpa,LOCA
+Austro-Alpine,LOCA
+Austro-Bihor,LOCA
+Avenida,LOCA
+Axi,LOCA
+Axios,LOCA
+Axios-Vardar,LOCA
+Axios-Vardar-South,LOCA
+Baja California Peninsula,LOCA
+Bajo,LOCA
+Balkan,LOCA
+Balkans,LOCA
+Balkans-Srednogorie,LOCA
+Bambamarca,LOCA
+Bamford,LOCA
+Banat,LOCA
+Banska Stiavnica,LOCA
+Bato,LOCA
+BAYANULA,LOCA
+Bayfield,LOCA
+Beishan,LOCA
+Benguet,LOCA
+Berza,LOCA
+Bewani,LOCA
+Binang,LOCA
+Bingham,LOCA
+Black,LOCA
+Bluebell,LOCA
+Bolivip,LOCA
+Bonchev Str,LOCA
+Borovitsa,LOCA
+Borovitsa caldera,LOCA
+Borovitsa volcanic,LOCA
+Borska,LOCA
+Bougainville,LOCA
+Bouklercombe,LOCA
+Bouldercombe,LOCA
+Brusturi,LOCA
+Bucovinian,LOCA
+Buerkeshitai,LOCA
+Bumolo,LOCA
+Burkeshitai,LOCA
+Butte,LOCA
+Cabang,LOCA
+Cala,LOCA
+Cananea,LOCA
+Cananea-Duluth,LOCA
+Capote,LOCA
+Cardwell,LOCA
+Carpathian,LOCA
+Carpathian-Balkan,LOCA
+CarpathianBalkan-Dinaric-Hellenic,LOCA
+Carpathians,LOCA
+Casapalca,LOCA
+Catorce,LOCA
+Cedros Island,LOCA
+Cedros–El Arco,LOCA
+central Asia,LOCA
+central Chile,LOCA
+Central Oyu,LOCA
+Central-Asia,LOCA
+Cerbat Mountains,LOCA
+Cerro,LOCA
+Cerro Corona,LOCA
+Cerro Coymolache,LOCA
+Cerro Hualgayoc,LOCA
+Cerro Jesus,LOCA
+Cerro lantahuatay,LOCA
+Cerro Pelado,LOCA
+Cerro Riolita,LOCA
+Cerro San,LOCA
+Cerros,LOCA
+Cerros Los,LOCA
+Chabuca Este,LOCA
+Chala,LOCA
+Chichón,LOCA
+Chillagoe,LOCA
+Chota,LOCA
+Chulec,LOCA
+Chuqui,LOCA
+Chuquicamata,LOCA
+Circum-Rhodope,LOCA
+Cobre Potrerillos,LOCA
+Colina de,LOCA
+Collinsville,LOCA
+Colorado Creek,LOCA
+Colqui,LOCA
+Compostela,LOCA
+Coombs,LOCA
+Coral,LOCA
+Cordillera,LOCA
+cordilleran,LOCA
+Coroccohuayco,LOCA
+Coyoacan,LOCA
+Crete,LOCA
+Cuesta,LOCA
+Curtis,LOCA
+Dabie,LOCA
+Dacia,LOCA
+Dalupirip,LOCA
+Danube,LOCA
+Danubian,LOCA
+Darai,LOCA
+Darling,LOCA
+Dawson Range,LOCA
+Delgerkhan,LOCA
+Demsus,LOCA
+Denam,LOCA
+Dexing District,LOCA
+Dizon,LOCA
+Domeyko,LOCA
+Don Luis,LOCA
+East Mongolian,LOCA
+East Tianshan,LOCA
+East-Carpathians,LOCA
+eastern Australia,LOCA
+El,LOCA
+El Arco–Calmalli,LOCA
+El Arco–Guerrero Negro,LOCA
+El Teniente,LOCA
+Elam Valley,LOCA
+Engadine,LOCA
+Ensenada,LOCA
+Erdenet,LOCA
+Ergun,LOCA
+Esmerelda,LOCA
+ETH,LOCA
+Exploradora,LOCA
+Farallón,LOCA
+Finisterre Ranges,LOCA
+Fly Rivers,LOCA
+Fraser,LOCA
+Fubilan,LOCA
+G˘avojdia,LOCA
+Gällivare,LOCA
+Gangdise,LOCA
+Geolog£a,LOCA
+Georgetown,LOCA
+Getic/Danubian,LOCA
+Getic-Supragetic,LOCA
+Gobi,LOCA
+Gold Coast,LOCA
+Goldfield,LOCA
+Gondwana,LOCA
+Gordon,LOCA
+Goyllariquizga,LOCA
+Goyllarisquizga,LOCA
+Gracemere,LOCA
+Granito,LOCA
+Grasberg district,LOCA
+Guerrero Negro,LOCA
+Guinaoang,LOCA
+Gympie,LOCA
+Hallstadt-Meliata,LOCA
+Hanover–Fierro,LOCA
+Hecate,LOCA
+Hellenides,LOCA
+Hercynian,LOCA
+Highlands,LOCA
+Hualgayoc,LOCA
+Huangshan,LOCA
+Hugo Dummett,LOCA
+Hunguit,LOCA
+Idaho Creek,LOCA
+Ikh-Khayrkhan,LOCA
+Inca,LOCA
+Irian Jay,LOCA
+Isla Cedros,LOCA
+Ithaca Peak stocks,LOCA
+IVdeoceiie,LOCA
+Jesus- Cerro,LOCA
+Jiama,LOCA
+Jiangerquan,LOCA
+Jinshandian,LOCA
+Jinshanguo,LOCA
+Jinwozi,LOCA
+Jueluotage,LOCA
+Junggar,LOCA
+Kalatage,LOCA
+Kangguer,LOCA
+Kasuga,LOCA
+Katanga,LOCA
+Kazakhstan-Junggar,LOCA
+Keetley,LOCA
+Kendenggaor,LOCA
+Kennecott,LOCA
+Kennon,LOCA
+Keppel,LOCA
+Kharmagtai,LOCA
+Khentey,LOCA
+Kilometro,LOCA
+Kinabalu,LOCA
+Klondyke,LOCA
+Koffee,LOCA
+Krajina,LOCA
+Kuorzhenkuola,LOCA
+La,LOCA
+La Copa,LOCA
+Lailisigaer,LOCA
+Lamasu,LOCA
+lantahuatay,LOCA
+Laramian,LOCA
+Las Bambas,LOCA
+Lepanto,LOCA
+Lepanto-Far,LOCA
+Lepanto-Far Southeast,LOCA
+Lepanto-FSE,LOCA
+Ligay,LOCA
+Little Ithaca,LOCA
+Llama,LOCA
+Lobo,LOCA
+Lola,LOCA
+Los,LOCA
+Los Pelambres,LOCA
+Luhr,LOCA
+lurquesa,LOCA
+Luzon,LOCA
+Macedonia,LOCA
+Majdanpek,LOCA
+Mamut,LOCA
+Manila–Negros–Sulu–Cotabato,LOCA
+manto,LOCA
+Manto Mancita,LOCA
+Mantos,LOCA
+Maranon,LOCA
+Matoutan,LOCA
+Mazhuangshan,LOCA
+Mazhuangshan-Mingshui,LOCA
+Meinert,LOCA
+Menlo,LOCA
+Metaliferi,LOCA
+Middle Tianshan,LOCA
+Middlefield,LOCA
+Mid-Hungarian,LOCA
+Mindanao,LOCA
+Mineral Park,LOCA
+Mineralni Bani,LOCA
+Mirador,LOCA
+Moesian,LOCA
+Moldavidic,LOCA
+Mongolia,LOCA
+Mongolia-Okhotsk,LOCA
+Montandon,LOCA
+Moreton,LOCA
+Mosgarides,LOCA
+Mount,LOCA
+Mount Fubilan,LOCA
+Mount Ian,LOCA
+Muerto,LOCA
+Muerto series,LOCA
+Murcielago,LOCA
+Murdock,LOCA
+Murga,LOCA
+Muruntau,LOCA
+Nanmu,LOCA
+Nansatsu,LOCA
+Nazas,LOCA
+Neo-Tethyan,LOCA
+Ningzhe,LOCA
+Ningzhen,LOCA
+Nisˇ-Trojan,LOCA
+Nong River,LOCA
+North America,LOCA
+North American,LOCA
+North American continent,LOCA
+North Hugo,LOCA
+north Kangguer,LOCA
+North of El Arco,LOCA
+North Oyu,LOCA
+northern Canadian Cordillera,LOCA
+northern China,LOCA
+Northern Creek,LOCA
+Northern Peru,LOCA
+Northparkes,LOCA
+northwest Mexico,LOCA
+northwest of Carmacks,LOCA
+NW-central Sonora,LOCA
+Old,LOCA
+Old Camp,LOCA
+Oligocene Borovitsa caldera,LOCA
+Olmos,LOCA
+Oravi,LOCA
+Orkhon-Selenga,LOCA
+Oyu,LOCA
+OYU TOLGOI,LOCA
+Oyut Ulaan,LOCA
+Paccha,LOCA
+Pacific coast,LOCA
+Paikon,LOCA
+Pampa,LOCA
+Panagyurishte,LOCA
+Panguna,LOCA
+Pantukan,LOCA
+Papua,LOCA
+Paria,LOCA
+Park,LOCA
+Pattison,LOCA
+Pedernales,LOCA
+Pelagonian-Dinaric,LOCA
+Penninic,LOCA
+Petelevo,LOCA
+Philex,LOCA
+Pinatubo,LOCA
+Pindos,LOCA
+Plio-Pleistocene Baguio volcano,LOCA
+Poiana,LOCA
+preAlpine,LOCA
+Providencia,LOCA
+Punta Chinos,LOCA
+Punta Norte,LOCA
+Qiabukanzhuota,LOCA
+QieshanTuwu-Chihu–Suanchakou,LOCA
+Quebrada,LOCA
+Quebrada Blanca,LOCA
+Quebrada Granito,LOCA
+Quebrada M,LOCA
+Quebrada Teniente,LOCA
+Quebrada Tiirquesa,LOCA
+Quebrada Turquesa,LOCA
+Quebradas,LOCA
+Quebradas Granito,LOCA
+Quebradas M,LOCA
+Queen,LOCA
+Radomiro,LOCA
+RadomiroTomic,LOCA
+Ravenswood,LOCA
+Red Mountain,LOCA
+Regimiento,LOCA
+Rhodope,LOCA
+Rhodope massif,LOCA
+Rhodopes,LOCA
+Ridanj-Krepoljin,LOCA
+Rio Blanco,LOCA
+Rockhampton,LOCA
+Rodalquilar,LOCA
+Round Mountain,LOCA
+Sabah,LOCA
+Sacramento Valley,LOCA
+Sailimu,LOCA
+San,LOCA
+San Agustin,LOCA
+San Andres,LOCA
+San Andres–Cedros,LOCA
+San Felipe,LOCA
+San Miguel,LOCA
+Sandy,LOCA
+Sanely,LOCA
+Santo,LOCA
+Santo Cristo,LOCA
+sa-Ocna,LOCA
+ScrindRa˘,LOCA
+Selwyn River,LOCA
+Sepik,LOCA
+Sepik-Ramu-AIarkham Valleys,LOCA
+Serbian,LOCA
+Serbo-Macedonian,LOCA
+Serbo-Macedonian-Rhodopian,LOCA
+Severin,LOCA
+Severin-Krajina,LOCA
+Shiyingtan,LOCA
+Shiyintan,LOCA
+Siberian,LOCA
+Sierra,LOCA
+Sierra Cas*,LOCA
+Sierra Castillo,LOCA
+Sierra San Pedro Martir,LOCA
+Sierrita,LOCA
+Silesian-Moldavidic,LOCA
+Sindangan–Cotabato–Daguma,LOCA
+Sofia,LOCA
+Solomon,LOCA
+South American,LOCA
+SOUTH GOBI,LOCA
+South Hugo,LOCA
+South Oyu,LOCA
+South West,LOCA
+southeastern Andes,LOCA
+southeastern Europe,LOCA
+southern California,LOCA
+southern Gobi,LOCA
+southwest North America,LOCA
+Southwest Oyu,LOCA
+southwestern United States,LOCA
+Srednogorie,LOCA
+Stanthorpe,LOCA
+Star,LOCA
+Star Alountains,LOCA
+Star Mounatins,LOCA
+Stara,LOCA
+state,LOCA
+Stip-Axios,LOCA
+Strickland,LOCA
+Sub-6,LOCA
+Surduc,LOCA
+Taal,LOCA
+ta-Ciclova-SascaMoldova,LOCA
+Tadjik,LOCA
+Tajo Tintaya,LOCA
+Tambon Lak,LOCA
+Tampakan,LOCA
+Tanama,LOCA
+Tarim,LOCA
+Taylor Creek,LOCA
+Tbpia,LOCA
+Tbquepala,LOCA
+Tectonic,LOCA
+Telefomin,LOCA
+Teniente,LOCA
+Terricelli Mountains,LOCA
+Tethian,LOCA
+Tethyan,LOCA
+the Alaskan border,LOCA
+The Alum Wash,LOCA
+the Andes,LOCA
+the Borovitsa caldera,LOCA
+the Little Ithaca,LOCA
+the Roper Ridge,LOCA
+the Tavua caldera,LOCA
+Tianshan,LOCA
+Tibetan,LOCA
+Tieshan,LOCA
+Tifalmin,LOCA
+Tijuana - Ensenada,LOCA
+Timok,LOCA
+Tincova,LOCA
+Tintaya,LOCA
+Tintaya district,LOCA
+Tintic,LOCA
+Tisza,LOCA
+Tongchang,LOCA
+Tongling,LOCA
+Tongshankou,LOCA
+Tontshankou,LOCA
+Toquepala,LOCA
+Transilvanides,LOCA
+Transylvanian,LOCA
+Transylvanides,LOCA
+Trojan-Krajina-SeverinCeahla˘,LOCA
+Troy,LOCA
+Tsagaan Suvarga,LOCA
+Tübingen,LOCA
+Turquoise Hill,LOCA
+Tuwu,LOCA
+Tuwu-Yandong,LOCA
+Uinta,LOCA
+Ulan,LOCA
+US southwest,LOCA
+Uzbekistan,LOCA
+Vanacancha,LOCA
+Vardar,LOCA
+Vardar-Axios,LOCA
+Vizcaino,LOCA
+Vizcaino Peninsula,LOCA
+Vizcaino–Cedros,LOCA
+Vlaykov,LOCA
+Wasatch,LOCA
+Waterhole,LOCA
+West Tianshan,LOCA
+west-central Yukon,LOCA
+western Anatolia,LOCA
+Westwood,LOCA
+Wilhelmstrasse,LOCA
+Yanacancha,LOCA
+Yangtze,LOCA
+Yangxin,LOCA
+Yanxin,LOCA
+Yarrol,LOCA
+Yeppoon,LOCA
+Yeringpresent,LOCA
+Yerington,LOCA
+Yiermand,LOCA
+Yilgarn,LOCA
+Yili,LOCA
+Yinzu,LOCA
+Yukon,LOCA
+yumagual,LOCA
+Zappa,LOCA
+Zappa-Koffee,LOCA
+Zijinshan,LOCA
+Zlatograd-Yambol,LOCA
+,
+acid,MAT
+adakitic,MAT
+alkali-calcic,MAT
+Aqishan-Yamansu magmatic,MAT
+basaltic,MAT
+calc-alkali,MAT
+calcalkaline,MAT
+calc-alkaline,MAT
+Calcareous,MAT
+calc-silicate,MAT
+crystallized volatile-rich felsic,MAT
+crystallizing,MAT
+crystallizing magmas,MAT
+crystallizing rhyolitic magma,MAT
+dacite,MAT
+dacitic,MAT
+Dananhu-Tousuquan magmatic,MAT
+felsic magma,MAT
+felsic magmas,MAT
+felsic melt,MAT
+ferromagnesian,MAT
+granitic,MAT
+haplogranite melt,MAT
+high-potash calc-alkaline,MAT
+intermediate,MAT
+mafic,MAT
+magmatic vapors,MAT
+magmatic-hydrothermal,MAT
+medium potassic,MAT
+orthomagmatic,MAT
+oxidized,MAT
+porphyry-Cu-related,MAT
+quartz-hosted melt,MAT
+quartz-monzodioritic,MAT
+rhyolitic melt,MAT
+saturated,MAT
+silicate,MAT
+silicate H2O,MAT
+silicate magma,MAT
+silicate magmas,MAT
+silicate melt,MAT
+silicate melts,MAT
+silicate rhyolitic magma,MAT
+siliceous,MAT
+silicic,MAT
+Sodic–calcic,MAT
+stagnant,MAT
+sulfide,MAT
+sulfide/silicate,MAT
+sulfur-rich,MAT
+Tongshankou,MAT
+ultramafic,MAT
+undegassed magma,MAT
+volatile-poor silicate melt,MAT
+volatile-rich melt,MAT
+volatile-rich silicate melt,MAT
+Yinzu,MAT
+,
+Al,ME
+Alk,ME
+aluminum,ME
+Ca,ME
+Fe,ME
+FeO,ME
+iron,ME
+K,ME
+K2O,ME
+magnesium,ME
+Mg,ME
+MgO,ME
+Mn,ME
+Na,ME
+Na2O,ME
+P,ME
+potassium,ME
+Si,ME
+silica,ME
+SiO2,ME
+sodium,ME
+Ti,ME
+,
+amphibolite,MR
+Antares,MR
+antigorite-bearing serpentinite,MR
+argillaceous,MR
+argillisite,MR
+argillisites,MR
+biotite schist,MR
+blueschist,MR
+calc-silicate marble,MR
+carbonaceous shale,MR
+cavities,MR
+Complex,MR
+copper skarn,MR
+dark shale,MR
+eclogite,MR
+eclogites,MR
+endoskarn,MR
+exoskarn,MR
+gneiss,MR
+gneisses,MR
+granite,MR
+granites,MR
+granitoid-gneiss,MR
+greenschist,MR
+greenschist-lower amphibolite,MR
+greenschists,MR
+greenstones,MR
+hornblende-diopside schist,MR
+I–S-type gneissic granites,MR
+limestone,MR
+magnetite skarn,MR
+marble,MR
+metabasalt,MR
+metagraywackes,MR
+metasedimentary,MR
+metasomatite,MR
+metasomatites,MR
+metavolcanic,MR
+minor quartzite,MR
+monzonitic,MR
+mudstones,MR
+ophiolites,MR
+orthogneiss,MR
+phyllite,MR
+phyllites,MR
+postskarn,MR
+postskarn porphyry,MR
+propylite,MR
+propylites,MR
+pyroxene skarn,MR
+quartz andesite,MR
+quartz diorite,MR
+quartz keratophyre,MR
+quartz microdiorite,MR
+quartz monzodiorite,MR
+quartz-feldspar gneiss,MR
+quartzite,MR
+sandy-shale,MR
+schist,MR
+schists,MR
+sericite phyllite,MR
+shale,MR
+siliceous slate,MR
+silty,MR
+skarn,MR
+Skarns,MR
+slate,MR
+synskarn,MR
+tremolitic,MR
+tuffaceous phyllite,MR
+,
+Ag,MEM
+arsenopyrite,MEM
+atacamite,MEM
+Au,MEM
+azurite,MEM
+bismuth,MEM
+bornite,MEM
+calaverite,MEM
+chalcocite,MEM
+chalcopyrite,MEM
+chalcopyrite-bornite,MEM
+chalcopyritic,MEM
+chloroxiphite,MEM
+cinnabar,MEM
+copper,MEM
+copper mineral,MEM
+coppers,MEM
+covellite,MEM
+covellite-pyrite,MEM
+crednerite,MEM
+cryptomelane,MEM
+csiklovaite,MEM
+Cu,MEM
+Cu minerals,MEM
+Cu(Fe),MEM
+cuprite,MEM
+digenite,MEM
+dyscrasite,MEM
+electrum,MEM
+enargite,MEM
+fahlore,MEM
+fayalite,MEM
+Fe,MEM
+ferromagnesian,MEM
+galena,MEM
+galenas,MEM
+goethite,MEM
+gold,MEM
+hematite,MEM
+hessite,MEM
+hypogene chalcopyrite,MEM
+hypogene pyrite,MEM
+ilmenite,MEM
+iron,MEM
+küstelite,MEM
+lead,MEM
+libethenite,MEM
+Limonite,MEM
+limonites,MEM
+ludwigite,MEM
+Mafic minerals,MEM
+magnetite,MEM
+manganese,MEM
+marcasite,MEM
+melnikovite,MEM
+miargyrite,MEM
+Minor chalcopyrite,MEM
+minor magnetite,MEM
+minor sphalerite,MEM
+minor tetrahedrite,MEM
+Mo,MEM
+molybdenite,MEM
+molybdenum,MEM
+Native gold,MEM
+Native silver,MEM
+neotocite,MEM
+Ni,MEM
+oxide copper,MEM
+pearceite,MEM
+polybasite,MEM
+polymetallic quartz,MEM
+proustite,MEM
+psilomelane,MEM
+pyrargyrite,MEM
+pyrite,MEM
+pyritic,MEM
+pyritiferous,MEM
+pyrrhotite,MEM
+quartz-molydenite,MEM
+quartz-pyrite,MEM
+rezbanyite,MEM
+rhodochrosite,MEM
+sampleite,MEM
+siderite,MEM
+silver,MEM
+specularite,MEM
+sphalerite,MEM
+sphalite,MEM
+stibnite,MEM
+tennantite,MEM
+tenorite,MEM
+tetrahedrite,MEM
+tin,MEM
+titanomagnetite,MEM
+troilite,MEM
+tungsten,MEM
+veszelyite,MEM
+zinc,MEM
+zircon,MEM
+zircons,MEM
+,
+advection,MS
+alkaline fusion,MS
+amorphous phases,MS
+Anhydrite-molybdenite,MS
+brecciation,MS
+brecciation event,MS
+chemical reactions,MS
+coexisting volatile-rich phases,MS
+crystal,MS
+crystalline,MS
+crystallisation,MS
+crystallize,MS
+crystallizes,MS
+crystallizing,MS
+crystals,MS
+early-late magmatic,MS
+episode of brecciation,MS
+exsolution,MS
+fluid transport,MS
+homogeneous melt,MS
+Homogenization,MS
+hydration,MS
+incorporating mineral dissolution-precipitation,MS
+late hydrothermal,MS
+late hydrothermal-stage,MS
+late magmatic,MS
+Late magmatic-stage,MS
+late postskarn,MS
+late-stage hydrothermal,MS
+liquid phase,MS
+magmatic-hydrothermal transition,MS
+metasomatic,MS
+microphenocrystic,MS
+migration,MS
+mineral dissolution-precipitation,MS
+Oxide,MS
+phase of breccia,MS
+phenocryst,MS
+Phenocrystic,MS
+phenocrysts,MS
+polycrystalline,MS
+post-hydrothermal,MS
+post-magmatic,MS
+postuma stage,MS
+potassium metasomatism,MS
+precipitation,MS
+precursor magmatic stage,MS
+Premineralization stage,MS
+principal hydrothermal,MS
+recrystallization,MS
+redeposit,MS
+remobilization,MS
+replacement,MS
+rystallization,MS
+silicate phases,MS
+Silicate—oxide—sulphide,MS
+silification,MS
+sulfidation,MS
+sulphidation,MS
+the late,MS
+the principal,MS
+,
+Au,MIT
+Au-bearing,MIT
+Au-Cu-Pb-Zn,MIT
+bornite,MIT
+brecciation,MIT
+chalcopyrite,MIT
+chalcopyrite mineralization,MIT
+chloritization,MIT
+copper,MIT
+copper mineralization,MIT
+coppergold porphyry,MIT
+COPPER-GOLD PORPHYRY,MIT
+copper-molybdenum mineralization,MIT
+Cu,MIT
+Cu mineralization,MIT
+Cu-Ag skarn,MIT
+Cu-Au,MIT
+Cu-Au-As,MIT
+Cu-Mo,MIT
+Cu-Mo mineralization,MIT
+Cu-Ni,MIT
+Cu-U,MIT
+disseminated,MIT
+enargite type,MIT
+epithermal gold,MIT
+Fe,MIT
+Fe-Cu/PbZn,MIT
+Fe-Cu-Mo,MIT
+Fe-skarn,MIT
+gold,MIT
+gold-rich porphyry,MIT
+high-sulfidation (acid-sulfate) type,MIT
+HS-type,MIT
+hydrothermal copper,MIT
+Hydrothermal Silicate,MIT
+hydrothermally,MIT
+low sulfidation,MIT
+magmatic copper-nickel,MIT
+magmatic Cu-Ni,MIT
+magmatic-hydrothermal,MIT
+mineralized porphyries,MIT
+Mo-Cu mineralization,MIT
+molybdenite,MIT
+molybdenite mineralization,MIT
+molybdenum,MIT
+molybdenum mineralization,MIT
+molybdenwn-copper,MIT
+Mo-W-Cu,MIT
+Oxide,MIT
+Pb-Zn,MIT
+porphyritic,MIT
+PORPHYRY,MIT
+porphyry alteration-mineralization,MIT
+Porphyry- and epithermal-related,MIT
+porphyry copper,MIT
+porphyry copper-gold,MIT
+porphyry Cu,MIT
+porphyry Cu-Mo,MIT
+porphyry deposit,MIT
+porphyry deposits,MIT
+porphyry hydrothermal,MIT
+porphyry mineralization,MIT
+porphyry Mo deposit,MIT
+porphyry-Cu,MIT
+porphyry-related,MIT
+porphyry-skarn mineralization,MIT
+porphyry-style,MIT
+porphyry-style Cu-Mo,MIT
+porphyry-style deposits,MIT
+porphyry-style mineralization,MIT
+porphyrytype,MIT
+porphyry-type,MIT
+porphyry-type CuMo,MIT
+porphyry-type Cu-Mo,MIT
+postskarn mineralization,MIT
+potassic mineralization,MIT
+pyrite,MIT
+pyrite-chalcopyrite,MIT
+pyritic,MIT
+Quartz Monzonite Porphyry,MIT
+quartz-molybdenite mineralization,MIT
+quartz-monzodiorite-hosted,MIT
+sericitization,MIT
+silicification,MIT
+skarn,MIT
+skarn Cu-Ag,MIT
+Skarn Mineralization,MIT
+skarn-hosted,MIT
+Skarnporphyry,MIT
+skarn-porphyry,MIT
+Skarn-related mineralization,MIT
+skarn‐type,MIT
+skarn-type Cu-Ag,MIT
+sulfide,MIT
+sulfide mineralization,MIT
+volcanic FeCu,MIT
+volcanic Fe-Cu,MIT
+volcanic hydrothermal,MIT
+,
+Ag,MRS
+,
+batholith,OB
+biotite halo,OB
+cavities,OB
+concentric ring,OB
+copper,OB
+copper ores,OB
+copper-molybdenum orebody,OB
+cylindrical,OB
+deposit margins,OB
+disseminated,OB
+filling-veins,OB
+halos,OB
+hollow,OB
+linear,OB
+lithocap,OB
+manto,OB
+manto-hosted,OB
+Mantos,OB
+Marginal Breccia,OB
+nodules,OB
+patches,OB
+phyllic halos,OB
+porosity,OB
+quartz-sulfide material,OB
+radial,OB
+radius,OB
+ring structure,OB
+skarn-hosted,OB
+sphere-like,OB
+steeply dipping,OB
+stratiform,OB
+subangular,OB
+subcircular,OB
+tiny crystals,OB
+vein-hosted mineralization,OB
+volcaniclastic units,OB
+,
+acicular,OTS
+amygdales,OTS
+anhydrite-chalcopyrite,OTS
+anhydrite-chalcopyrite (AC) veins,OTS
+anhydrite-chalcopyrite vein,OTS
+anhydritechalcopyrite veins,OTS
+anhydrite-chalcopyrite veins,OTS
+anhydritemolybdenite,OTS
+Anhydrite-molybdenite,OTS
+anhydrite-molybdenite (AM) veins,OTS
+anhydrite-molybdenite vein,OTS
+anhydrite-molybdenite veins,OTS
+bird's-eye” concentric texture,OTS
+cavities,OTS
+clasts,OTS
+clots,OTS
+concentric,OTS
+concentric veins,OTS
+Crustified vein,OTS
+crystalline,OTS
+disseminated,OTS
+Dissemination,OTS
+disseminations,OTS
+equigranular texture,OTS
+fine-grained,OTS
+Foliations,OTS
+inward-dipping,OTS
+lath-shaped,OTS
+lenses,OTS
+low-sulfidation veins,OTS
+microphenocrystic,OTS
+orogenic lode,OTS
+phenocryst,OTS
+Phenocrystic,OTS
+phenocrysts,OTS
+polymetallic quartz veins,OTS
+quartz,OTS
+Quartz pyrite veins,OTS
+quartz vein,OTS
+quartz veined,OTS
+quartz veinlets,OTS
+quartz veins,OTS
+quartz-alunite carapace,OTS
+quartzmolybdenite,OTS
+quartz-molybdenite,OTS
+quartz-molybdenite (QM) veins,OTS
+quartz-molybdenite veins,OTS
+quartz-molybdenite-pyrite vein,OTS
+quartz-pyrite (QP) veins,OTS
+quartz-pyrite vein,OTS
+quartz-pyrite veins,OTS
+quartz-sulfide veins,OTS
+quartz-veined,OTS
+radial,OTS
+rounded,OTS
+stockwork,OTS
+stockwork veined,OTS
+stockwork veining,OTS
+stockwork veins,OTS
+stockworks,OTS
+textures,OTS
+the anhydrite-molybdenite,OTS
+the polymetallic quartz,OTS
+tourmaline-anhydrite breccia,OTS
+UST,OTS
+vein,OTS
+vein stockwork,OTS
+vein stockworks,OTS
+vein textures,OTS
+vein wall,OTS
+vein-controlled,OTS
+vein-hosted,OTS
+veining,OTS
+veinlet,OTS
+veinlet-disseminated,OTS
+veinlet-dissemmated,OTS
+veinlets,OTS
+veinlike,OTS
+veins,OTS
+,
+AIRIE,ORG
+Geochron,ORG
+Lawrence,ORG
+Lawrence Berkeley,ORG
+America-Bonanza,ORG
+Australian Geological Survey,ORG
+Behre Dolbear,ORG
+Berkeley,ORG
+BGMR,ORG
+BGNM,ORG
+BHP,ORG
+BHP Billiton,ORG
+Boliden,ORG
+Bulgarian Academy,ORG
+Bulgarian Geoengineering Enterprise,ORG
+Bureau,ORG
+Centro de Investigacion Cientiﬁca,ORG
+Chile Departamento de Geologia,ORG
+China University of Geosciences,ORG
+Chinese Academy,ORG
+CODELCO,ORG
+Codelco-Chile,ORG
+Colorado State,ORG
+Colorado State University,ORG
+Corporacion,ORG
+CSIRO Division,ORG
+Delta Geoscience,ORG
+"Department of Geosciences, University",ORG
+EASTOE Department of,ORG
+Florida International,ORG
+GEOLOGICAL,ORG
+Geological Survey,ORG
+Harvard,ORG
+HEDENQUIST2†,ORG
+I.U.G.S,ORG
+IAGOD,ORG
+International Association,ORG
+Ivanhoe Mines,ORG
+Kennecott,ORG
+Kyushu,ORG
+LARSON Department,ORG
+Macquarie University,ORG
+McGill,ORG
+Mines,ORG
+Neptune,ORG
+Ok Tedi Development,ORG
+Oregon State University,ORG
+Philex,ORG
+SEG-IAGOD,ORG
+Servicio Nacional,ORG
+Society of Economic Geologists,ORG
+South American Earth Sciences,ORG
+Texas A&M University,ORG
+The Broken Hill,ORG
+UNAM,ORG
+United States Instituto GEA,ORG
+Universidad de Concepcion,ORG
+University of,ORG
+University of Alberta,ORG
+University of Arizona,ORG
+University of Tasmania,ORG
+University of Wisconsin-Madison,ORG
+Washington State,ORG
+,
+adamellite,PM
+adularia,PM
+albite,PM
+albitic,PM
+albitised monzodiorite,PM
+alkali,PM
+alkali feldspar,PM
+alkali-feldspar,PM
+amophibolite,PM
+amphibole,PM
+amphiboles,PM
+andesine,PM
+andesite felsite,PM
+andesite porphyry,PM
+anorthite,PM
+augite,PM
+augite porphyry,PM
+augites,PM
+Banatite,PM
+banatites,PM
+Banatitic,PM
+biotite granite,PM
+biotite granite porphyry,PM
+biotite- phyric,PM
+biotite rhyodacitic,PM
+biotite rhyolitic,PM
+biotite-amphibole,PM
+biotite-bearing rhyodacites,PM
+biotite-hornblende,PM
+biotite-hornblende granodiorite,PM
+biotites,PM
+calcic plagioclase,PM
+calcic-albite,PM
+calcite,PM
+calc-silicate minerals,PM
+calc-silicates,PM
+carbonates,PM
+clinopyroxene,PM
+clinopyroxene-bearing,PM
+clinopyroxene-hornblende,PM
+composite felsic,PM
+cummingtonite,PM
+diopside,PM
+edenite,PM
+feldspar,PM
+feldspars,PM
+feldspathic,PM
+felsic,PM
+garnet,PM
+garnet-bearing,PM
+garnet-pyroxene,PM
+garnets,PM
+hornblende,PM
+hornblende phenocrysts,PM
+hornblendes,PM
+hydromuscovite,PM
+illite,PM
+intermediate-felsic,PM
+K feldspar,PM
+Kfeldspar,PM
+K-feldspar,PM
+mafic phenocrysts,PM
+microcline,PM
+oligoclase,PM
+orthoclase,PM
+peristerite,PM
+phaneritic,PM
+Phenocrystic,PM
+plagioclase,PM
+plagioclase phenocrysts,PM
+plagioclase–hornblende,PM
+plagioclases,PM
+plagiogranitic,PM
+porphyritic quartz,PM
+potassium,PM
+pyroxene,PM
+quarlz,PM
+quartz,PM
+quartz diorite,PM
+quartz monzonite,PM
+quartz-feldspar,PM
+quartz-feldspar-hornblende,PM
+quartz-feldspathic,PM
+quartzo,PM
+quartz-sanidine,PM
+richterite,PM
+sanidine,PM
+sericitised augite,PM
+Sewell Tonalite,PM
+sodic feldspar,PM
+sodic-oligoclase,PM
+sulfides,PM
+tremolite,PM
+tremolitic,PM
+two-feldspar,PM
+zircon,PM
+zircons,PM
+,
+Alberta,PROV
+Arizona,PROV
+Baja California,PROV
+Benguet,PROV
+British Columbia,PROV
+California,PROV
+Colorado,PROV
+Florida,PROV
+Fujian,PROV
+Gansu,PROV
+Hebei,PROV
+Hodgkinson,PROV
+Hubei,PROV
+Idaho,PROV
+Irian,PROV
+Irian Jaya,PROV
+JIANGXI,PROV
+Jiangxi Province,PROV
+Massachussetts,PROV
+Michoacan,PROV
+Montana,PROV
+Nevada,PROV
+Norrbotten,PROV
+Papua,PROV
+Quebec,PROV
+Queensland,PROV
+Sonora,PROV
+Sulu,PROV
+Taiwan,PROV
+Texas,PROV
+Tibet,PROV
+Utah,PROV
+Victoria,PROV
+Washington,PROV
+Western Australia,PROV
+Wisconsin,PROV
+Xinjiang,PROV
+Xinjiang Uygur,PROV
+Yarrol,PROV
+Yukon Territory,PROV
+Zacatecas,PROV
+Zambales,PROV
+,
+Sun,CAUTH
+A. Arevalo,CAUTH
+A. Kurtz,CAUTH
+A. Skewes,CAUTH
+Abbruzzi,CAUTH
+Acocella,CAUTH
+Agterberg,CAUTH
+Ague,CAUTH
+Aguillón-Robles,CAUTH
+Ahmad,CAUTH
+Aiken,CAUTH
+Albarede,CAUTH
+Allègre,CAUTH
+Allen,CAUTH
+Allison,CAUTH
+Almazan-Vazquez,CAUTH
+Alvarez,CAUTH
+Ambler,CAUTH
+Amend,CAUTH
+Anan,CAUTH
+Andersen,CAUTH
+Anderson,CAUTH
+Andres,CAUTH
+ankovic,CAUTH
+Anthony,CAUTH
+Aoki,CAUTH
+Arevalo,CAUTH
+Arikas,CAUTH
+Arnold,CAUTH
+Arribas,CAUTH
+Ashley,CAUTH
+Atherton,CAUTH
+Atkinson,CAUTH
+Audétat,CAUTH
+Ayres,CAUTH
+B.A.,CAUTH
+Badarch,CAUTH
+Bain,CAUTH
+Baker,CAUTH
+Balde,CAUTH
+Báldi,CAUTH
+Balintoni,CAUTH
+Ballantyne,CAUTH
+Baltosser,CAUTH
+Baluda,CAUTH
+Bamford,CAUTH
+Bao,CAUTH
+Bar,CAUTH
+Barabas,CAUTH
+Barnes,CAUTH
+Barra,CAUTH
+Barthelmy,CAUTH
+Barton,CAUTH
+Bastin,CAUTH
+Baum,CAUTH
+Bayraktarov,CAUTH
+Beane,CAUTH
+Bellon,CAUTH
+Benavides,CAUTH
+Benguet,CAUTH
+Beresford,CAUTH
+Berggren,CAUTH
+Bernard,CAUTH
+Berza,CAUTH
+Bethke,CAUTH
+Bhattacharji,CAUTH
+BHP,CAUTH
+BHPBilliton,CAUTH
+Biino,CAUTH
+Billiton-BHP,CAUTH
+Bingham Canyon,CAUTH
+Bingham-Lanier,CAUTH
+Birck,CAUTH
+Biske,CAUTH
+Bleahu,CAUTH
+Blecha,CAUTH
+Blevin,CAUTH
+Blooms,CAUTH
+Blount,CAUTH
+Blundy,CAUTH
+Bocaletti,CAUTH
+Boccaletti,CAUTH
+Bodnar,CAUTH
+Bogolepov,CAUTH
+Bonham,CAUTH
+Bonini,CAUTH
+Borcos,CAUTH
+Boric,CAUTH
+Borredon,CAUTH
+Botev,CAUTH
+Both Roedder,CAUTH
+Bourcier,CAUTH
+Bower,CAUTH
+Bowes,CAUTH
+Bowman,CAUTH
+Branch,CAUTH
+Brandeis,CAUTH
+Brass,CAUTH
+Bravo,CAUTH
+Brimhall,CAUTH
+Broekstra,CAUTH
+Bromfiel,CAUTH
+Bromfield,CAUTH
+Brook,CAUTH
+Brooks,CAUTH
+Brown,CAUTH
+Bruha,CAUTH
+Bryner,CAUTH
+Bukarov,CAUTH
+Burchfiel,CAUTH
+Bureau,CAUTH
+Burke,CAUTH
+Burnham,CAUTH
+Busby,CAUTH
+Bushnell,CAUTH
+Butte,CAUTH
+C. Huete,CAUTH
+C. Spronhl,CAUTH
+C.E.,CAUTH
+C.E. Vidal,CAUTH
+C.J.R. Hart,CAUTH
+Cabos,CAUTH
+Cabri,CAUTH
+Cadia Hill,CAUTH
+Calagari,CAUTH
+Callow,CAUTH
+Campa,CAUTH
+Camus,CAUTH
+Canchaya,CAUTH
+Candela,CAUTH
+Candela and Holland,CAUTH
+Cannell,CAUTH
+Cappellen,CAUTH
+Cargill,CAUTH
+Carlson,CAUTH
+Carmichael,CAUTH
+Carr,CAUTH
+Carrasco,CAUTH
+Carrol,CAUTH
+Carroll,CAUTH
+Carson,CAUTH
+Carten,CAUTH
+Cash,CAUTH
+Casino,CAUTH
+Casselman,CAUTH
+Castillo,CAUTH
+Cathles,CAUTH
+Cawood,CAUTH
+Cembrano,CAUTH
+cf. Roedder,CAUTH
+Chamberlain,CAUTH
+Chanell,CAUTH
+Chappell,CAUTH
+Charrier,CAUTH
+Chatterjee,CAUTH
+Chen,CAUTH
+Chivas,CAUTH
+Chou,CAUTH
+Christofides,CAUTH
+Chung,CAUTH
+Cinco,CAUTH
+Cioflica,CAUTH
+Clark,CAUTH
+Clarke,CAUTH
+Claveria,CAUTH
+Clayton,CAUTH
+Cline,CAUTH
+Cloke,CAUTH
+CODELCO,CAUTH
+Coira,CAUTH
+Concepción,CAUTH
+Coney,CAUTH
+Conrad,CAUTH
+Constantinescu,CAUTH
+Conticelli,CAUTH
+Coochey,CAUTH
+Cook,CAUTH
+Cooke,CAUTH
+Coolbaugh,CAUTH
+Coombs,CAUTH
+Cooper,CAUTH
+Copeland,CAUTH
+Corn,CAUTH
+Cornejo,CAUTH
+Cornelius,CAUTH
+Coulon,CAUTH
+Cox,CAUTH
+Craig,CAUTH
+Crawford,CAUTH
+Creaser,CAUTH
+Crerar,CAUTH
+Crittenden,CAUTH
+Cuadra,CAUTH
+Cygan,CAUTH
+Czamanske,CAUTH
+D.,CAUTH
+D. Selby,CAUTH
+D.C.,CAUTH
+Dallmeyer,CAUTH
+Dalrymple,CAUTH
+Damasco,CAUTH
+Damon,CAUTH
+Davies,CAUTH
+Davis,CAUTH
+Day,CAUTH
+Deen,CAUTH
+Defant,CAUTH
+Dewey,CAUTH
+Dickinson,CAUTH
+Dickson,CAUTH
+Dill,CAUTH
+Dilles,CAUTH
+Dings,CAUTH
+Dippie,CAUTH
+Divljan,CAUTH
+Dizon,CAUTH
+Djordjevic´,CAUTH
+Dodge,CAUTH
+Dow,CAUTH
+Drake,CAUTH
+Drew,CAUTH
+Drovenik,CAUTH
+Drummond,CAUTH
+Du,CAUTH
+Duba,CAUTH
+Ducea,CAUTH
+Duffield,CAUTH
+Dunbar,CAUTH
+Duncan,CAUTH
+Dunn,CAUTH
+Dunstan,CAUTH
+E. Ripley,CAUTH
+E.H.,CAUTH
+Ea- dington,CAUTH
+Eastoe,CAUTH
+Eaton,CAUTH
+Echavarri,CAUTH
+Eckman,CAUTH
+Eggler,CAUTH
+Ehrlich,CAUTH
+Eidel,CAUTH
+Eimer,CAUTH
+Einaudi,CAUTH
+Elisa,CAUTH
+ELLIS,CAUTH
+Elsing,CAUTH
+Emmons,CAUTH
+Engel,CAUTH
+Epstein,CAUTH
+Erhlich,CAUTH
+Ericksen,CAUTH
+escu,CAUTH
+Esmerelda,CAUTH
+Espirilla R,CAUTH
+Eugster,CAUTH
+Evans,CAUTH
+Eyzaguirre,CAUTH
+Fabbi,CAUTH
+Facer,CAUTH
+Falcón,CAUTH
+Fan,CAUTH
+Farias,CAUTH
+Feng,CAUTH
+Fernandez,CAUTH
+Fernando,CAUTH
+Ferry,CAUTH
+Field,CAUTH
+Fierro,CAUTH
+Fifarek,CAUTH
+Finlayson,CAUTH
+Fipkie,CAUTH
+Fisher,CAUTH
+Fitzgerald,CAUTH
+Fletcher,CAUTH
+Flint,CAUTH
+Flores,CAUTH
+Ford,CAUTH
+Forster,CAUTH
+Fournier,CAUTH
+Frei,CAUTH
+Frets,CAUTH
+Frey,CAUTH
+Frost,CAUTH
+Fulton,CAUTH
+G. Muller,CAUTH
+Galey,CAUTH
+Gao,CAUTH
+Gappe,CAUTH
+Garamjav,CAUTH
+Garcia,CAUTH
+García,CAUTH
+Garrels,CAUTH
+Garret,CAUTH
+Garrido,CAUTH
+Garwin,CAUTH
+Gary,CAUTH
+Gastil,CAUTH
+Gehrels,CAUTH
+Geoestudios,CAUTH
+Georgiev,CAUTH
+Gerlach,CAUTH
+Gheorghit,CAUTH
+Ghiorso,CAUTH
+Giggenbach,CAUTH
+Gill,CAUTH
+Gilmour,CAUTH
+Girty,CAUTH
+Gius¸ca˘,CAUTH
+Glenn,CAUTH
+Godoy,CAUTH
+Godwin,CAUTH
+Gonzalez,CAUTH
+Gottschalk,CAUTH
+Graham,CAUTH
+Grant,CAUTH
+Green,CAUTH
+Grubic´,CAUTH
+Gu,CAUTH
+Guilbert,CAUTH
+Guild,CAUTH
+Gunnesch,CAUTH
+Günther,CAUTH
+Guo,CAUTH
+Gustafson,CAUTH
+Gutscher,CAUTH
+Guzman,CAUTH
+Haas,CAUTH
+Hacker,CAUTH
+Halter,CAUTH
+Hamada,CAUTH
+Hammarstrom,CAUTH
+Han,CAUTH
+Harris,CAUTH
+Harrison,CAUTH
+Hart,CAUTH
+Hattori,CAUTH
+Hawkins,CAUTH
+Haynes,CAUTH
+He,CAUTH
+Heald,CAUTH
+Hedenquis,CAUTH
+Hedenquist,CAUTH
+Hedenquistet,CAUTH
+Heidecker,CAUTH
+Heidrick,CAUTH
+Heinhorst,CAUTH
+Heinrich,CAUTH
+Helgeson,CAUTH
+Hemley,CAUTH
+Hendenquist,CAUTH
+Hendry,CAUTH
+Henley,CAUTH
+Henry,CAUTH
+Hermes,CAUTH
+Hernon,CAUTH
+Hervig,CAUTH
+Hill,CAUTH
+Hirt,CAUTH
+Höck,CAUTH
+Hodder,CAUTH
+Holland,CAUTH
+Holliday,CAUTH
+Hollister,CAUTH
+Holtz,CAUTH
+Horita,CAUTH
+HORTON,CAUTH
+Horváth,CAUTH
+Hou,CAUTH
+Houseman,CAUTH
+Howell,CAUTH
+Hu,CAUTH
+Huang,CAUTH
+Hudson,CAUTH
+Hunt,CAUTH
+Hutchinson,CAUTH
+Hutchison,CAUTH
+Idaho Creek,CAUTH
+Imai,CAUTH
+Întorsureanu,CAUTH
+Ishihara,CAUTH
+Istrate,CAUTH
+Itaya,CAUTH
+Ivanhoe,CAUTH
+Ivanov,CAUTH
+Izawa,CAUTH
+J.K. Mortensen,CAUTH
+J.L.,CAUTH
+Jacinto,CAUTH
+Jacobs,CAUTH
+Jacobsen,CAUTH
+Jacques,CAUTH
+Jaeger,CAUTH
+Jahn,CAUTH
+Jambor,CAUTH
+Jankovic,CAUTH
+Jaupart,CAUTH
+Jenkins,CAUTH
+Jensen,CAUTH
+Ji,CAUTH
+Jiama,CAUTH
+Jiang,CAUTH
+Jing,CAUTH
+Johannes,CAUTH
+Johannsen,CAUTH
+John,CAUTH
+Johnson,CAUTH
+Johnston,CAUTH
+Jones,CAUTH
+Joralemon,CAUTH
+Jugo,CAUTH
+Juras,CAUTH
+Kamenetsky,CAUTH
+Kamilli,CAUTH
+Karamata,CAUTH
+Kawakatsu,CAUTH
+Kay,CAUTH
+Kazahaya,CAUTH
+Keith,CAUTH
+Kelley,CAUTH
+Kennecott,CAUTH
+Kennedy,CAUTH
+Kepezhinskas,CAUTH
+Keppler,CAUTH
+Kerrich,CAUTH
+Kesler,CAUTH
+Keyser,CAUTH
+Kharkovska,CAUTH
+Kilian,CAUTH
+Kilinc,CAUTH
+Killian,CAUTH
+Kilmer,CAUTH
+Kimbrough,CAUTH
+Kirke,CAUTH
+Kirkegaard,CAUTH
+Kirkham,CAUTH
+Kirwin,CAUTH
+Knapp,CAUTH
+Knight,CAUTH
+Koide,CAUTH
+Koller,CAUTH
+Koloula-Chivas,CAUTH
+Komprobst,CAUTH
+Kramers,CAUTH
+Kräutner,CAUTH
+Kress,CAUTH
+Kunov,CAUTH
+Kurbanov,CAUTH
+Kurtz,CAUTH
+Kwak,CAUTH
+L.A.,CAUTH
+L.B. Gustafson,CAUTH
+Lachenbruch,CAUTH
+Lacv,CAUTH
+Lagache,CAUTH
+Lakang'e,CAUTH
+Lamb,CAUTH
+Lambda,CAUTH
+Lang,CAUTH
+Lanier,CAUTH
+Lanphere,CAUTH
+Larocque,CAUTH
+Larson,CAUTH
+Lasaga,CAUTH
+Lawrence,CAUTH
+Le Bas,CAUTH
+Le Bel,CAUTH
+Lee,CAUTH
+Leech,CAUTH
+Leitch,CAUTH
+Lemne,CAUTH
+Levi,CAUTH
+Lexa,CAUTH
+Li,CAUTH
+Lichtner,CAUTH
+Lickfold,CAUTH
+Liegeois,CAUTH
+Lindgren,CAUTH
+Lindsay,CAUTH
+Lindsley,CAUTH
+Lipman,CAUTH
+Liu,CAUTH
+LL.,CAUTH
+lobar,CAUTH
+Lopez-Escobar,CAUTH
+Lopez-Martinez,CAUTH
+Los Pelambres,CAUTH
+Loucks,CAUTH
+Love,CAUTH
+Lowder,CAUTH
+Lowell,CAUTH
+Lowen stern,CAUTH
+Lowenstein,CAUTH
+Lowenstern,CAUTH
+Lucas,CAUTH
+Luck,CAUTH
+Ludwig,CAUTH
+Luhr,CAUTH
+Lupu,CAUTH
+Lynn,CAUTH
+Lynton,CAUTH
+M. Falcón,CAUTH
+M. Gaspar,CAUTH
+M˘arun¸tiu,CAUTH
+Ma,CAUTH
+Macfarlane,CAUTH
+Mackenzie,CAUTH
+MacMillan,CAUTH
+Madera,CAUTH
+Magganas,CAUTH
+MAHER,CAUTH
+Maier,CAUTH
+Mak- saev,CAUTH
+Maksaev,CAUTH
+Malihan,CAUTH
+Manske,CAUTH
+Mao,CAUTH
+Marchev,CAUTH
+Marchini,CAUTH
+Marechal,CAUTH
+Marechel,CAUTH
+Markey,CAUTH
+Markov,CAUTH
+Marsden,CAUTH
+Marsh,CAUTH
+Martin,CAUTH
+Martinsson,CAUTH
+Maruyama,CAUTH
+Mason,CAUTH
+Mateen,CAUTH
+Mathur,CAUTH
+Matthews,CAUTH
+Mattinson,CAUTH
+Mauger,CAUTH
+Maughan,CAUTH
+Maury,CAUTH
+Mavroudchiev,CAUTH
+Maxwell,CAUTH
+Mayeda,CAUTH
+McCabe,CAUTH
+McCaffrey,CAUTH
+McCandless,CAUTH
+McCoyd,CAUTH
+McCrea,CAUTH
+McDonald,CAUTH
+McDonough,CAUTH
+McDougall,CAUTH
+McGee,CAUTH
+McInnes,CAUTH
+McKee,CAUTH
+McMillan,CAUTH
+McNabb,CAUTH
+McWilliams,CAUTH
+Megard,CAUTH
+Meinert,CAUTH
+Meyer,CAUTH
+Microlas,CAUTH
+Middleton,CAUTH
+Milian,CAUTH
+Miller,CAUTH
+Mina,CAUTH
+Mitchell,CAUTH
+Molloy,CAUTH
+Molnár,CAUTH
+Monro,CAUTH
+Moore,CAUTH
+Morris,CAUTH
+Mortensen,CAUTH
+Mortimer,CAUTH
+Mountrakis,CAUTH
+Mpodozis,CAUTH
+Mt.,CAUTH
+Mt. Nansen,CAUTH
+Muhammad,CAUTH
+Muir,CAUTH
+Mulchay,CAUTH
+Mungall,CAUTH
+Murray,CAUTH
+Mutschler,CAUTH
+Mutter,CAUTH
+N,CAUTH
+Na˘,CAUTH
+Na˘sta˘seanu,CAUTH
+Nabelek,CAUTH
+Nachev,CAUTH
+Nagler,CAUTH
+Nalivkin,CAUTH
+Naney,CAUTH
+Nanmu,CAUTH
+Nash,CAUTH
+Nesbitt,CAUTH
+Neubauer,CAUTH
+Nevada,CAUTH
+Newberg,CAUTH
+Nicolae,CAUTH
+Nicolescu,CAUTH
+Nielsen,CAUTH
+Niemeyer,CAUTH
+Noble,CAUTH
+Norton,CAUTH
+Norvick,CAUTH
+Nourse,CAUTH
+Nutter,CAUTH
+Nyemo,CAUTH
+O. Rivera,CAUTH
+O’Neil,CAUTH
+Oelkers,CAUTH
+Ohmoto,CAUTH
+Ohta,CAUTH
+Olson,CAUTH
+Orville,CAUTH
+Osoria,CAUTH
+Ossandón,CAUTH
+Owen,CAUTH
+Oyarzun,CAUTH
+P Cornejo,CAUTH
+P. Gow,CAUTH
+Packham,CAUTH
+Page,CAUTH
+Paine,CAUTH
+Pallister,CAUTH
+Panaiotu,CAUTH
+PangunaFord,CAUTH
+Panteleyev,CAUTH
+Papanikolaou,CAUTH
+Parat,CAUTH
+Park,CAUTH
+Parkinson,CAUTH
+Parra S.,CAUTH
+Parry,CAUTH
+Parson,CAUTH
+Parsons,CAUTH
+Pasteris,CAUTH
+Paterson,CAUTH
+Patiño,CAUTH
+Pattison,CAUTH
+Paul,CAUTH
+Payne,CAUTH
+Peacock,CAUTH
+Pearce,CAUTH
+Peccerillo,CAUTH
+Pécskay,CAUTH
+Peng,CAUTH
+Perello,CAUTH
+Perelló,CAUTH
+Perez,CAUTH
+Perez-Segura,CAUTH
+Perkin,CAUTH
+Perry,CAUTH
+Petersen,CAUTH
+Petford,CAUTH
+Piccoli,CAUTH
+Pichavant,CAUTH
+Piestrzinski,CAUTH
+Pigram,CAUTH
+Pirajno,CAUTH
+Popov,CAUTH
+Potter,CAUTH
+Proffett,CAUTH
+Prokofiev,CAUTH
+Prouteau,CAUTH
+Puchkov,CAUTH
+Pupin,CAUTH
+Pysklywee,CAUTH
+Qi,CAUTH
+Qin,CAUTH
+Quan,CAUTH
+Quenouille,CAUTH
+Quirt,CAUTH
+R Cornejo,CAUTH
+R. Floody,CAUTH
+R. Morel,CAUTH
+R. Preece,CAUTH
+R.M. Tosdal,CAUTH
+Ra˘,CAUTH
+Radelli,CAUTH
+Raith,CAUTH
+Ramos,CAUTH
+Rangin,CAUTH
+Rapp,CAUTH
+Ratschbacher,CAUTH
+Reagan,CAUTH
+Rebagliati,CAUTH
+Rehrig and Heidrick,CAUTH
+Reich,CAUTH
+Ren,CAUTH
+Reutter,CAUTH
+Reyf,CAUTH
+Reynolds,CAUTH
+Richards,CAUTH
+Rio Blanco,CAUTH
+Rivera,CAUTH
+Robert,CAUTH
+Roberts,CAUTH
+Robinson,CAUTH
+Roedder,CAUTH
+Rohrlach,CAUTH
+Rojas,CAUTH
+Rose,CAUTH
+Rouxel,CAUTH
+Royden,CAUTH
+Rubatto,CAUTH
+Rui,CAUTH
+Ruiz,CAUTH
+Ruppert,CAUTH
+Rushmer,CAUTH
+Russo-S˘andulescu,CAUTH
+Russo-Sa˘,CAUTH
+Rutherford,CAUTH
+Ryburn,CAUTH
+Rye,CAUTH
+Rytuba,CAUTH
+S. Kay,CAUTH
+S. R. Titley,CAUTH
+S.B.,CAUTH
+S˘andulescu,CAUTH
+Sa˘,CAUTH
+Sack,CAUTH
+Sajona,CAUTH
+Sakaguchi,CAUTH
+Sakai,CAUTH
+Saleeby,CAUTH
+Sales,CAUTH
+Salleeby,CAUTH
+Sanderson,CAUTH
+Santo,CAUTH
+Sasaki,CAUTH
+Sass,CAUTH
+Sasso,CAUTH
+Sato,CAUTH
+Savage,CAUTH
+Savu,CAUTH
+Sawkins,CAUTH
+Scaillet,CAUTH
+Schauble,CAUTH
+Scheibner,CAUTH
+Schmid,CAUTH
+Schmidt,CAUTH
+Searson,CAUTH
+Sebrier,CAUTH
+Seck,CAUTH
+Sedlock,CAUTH
+Seghedi,CAUTH
+Selby,CAUTH
+Seltmann,CAUTH
+Sen,CAUTH
+Sengor,CAUTH
+Serafica,CAUTH
+Serafimovski,CAUTH
+Serrano,CAUTH
+Setterfield,CAUTH
+Shafiqullah,CAUTH
+Shannon,CAUTH
+Shatov,CAUTH
+Shaver,CAUTH
+Shaw,CAUTH
+Sheehan,CAUTH
+Shelnutt,CAUTH
+Shen,CAUTH
+Shepherd,CAUTH
+Shilov,CAUTH
+Shimazaki,CAUTH
+Shimizu,CAUTH
+Shinohara,CAUTH
+Shirey,CAUTH
+Shu,CAUTH
+Shui,CAUTH
+Sigvaldason,CAUTH
+Silberman,CAUTH
+Sillitoe,CAUTH
+silver,CAUTH
+Simmons,CAUTH
+Simos,CAUTH
+Sinclair,CAUTH
+Singer,CAUTH
+Skewes,CAUTH
+Skillings,CAUTH
+Skirius,CAUTH
+Skjerlie,CAUTH
+Smith,CAUTH
+Smithies,CAUTH
+Smoliar,CAUTH
+Smuk,CAUTH
+Snee,CAUTH
+Solano-Rico,CAUTH
+Sourirajan,CAUTH
+Sparks,CAUTH
+Spooner,CAUTH
+Springer,CAUTH
+Stacey,CAUTH
+stafiF,CAUTH
+Stanisheva-Vassilieva,CAUTH
+Steefel,CAUTH
+Stefan,CAUTH
+Stein,CAUTH
+Steininger,CAUTH
+Stem,CAUTH
+Stern,CAUTH
+Sterner,CAUTH
+Stevens,CAUTH
+Stewart,CAUTH
+Stoffregen,CAUTH
+Stollery,CAUTH
+Stormer,CAUTH
+Streck,CAUTH
+Streckeisen,CAUTH
+Strutinski,CAUTH
+Suzuki,CAUTH
+Swan,CAUTH
+Swanson,CAUTH
+Takenouchi,CAUTH
+Tampakan,CAUTH
+Tan,CAUTH
+Tanama,CAUTH
+Tang,CAUTH
+tanisheva,CAUTH
+Tari,CAUTH
+Tarkian,CAUTH
+Taylor,CAUTH
+Theodore,CAUTH
+Thiéblemont,CAUTH
+Thiele,CAUTH
+Thomas,CAUTH
+Thompson,CAUTH
+Tidy,CAUTH
+Titley,CAUTH
+Tobey,CAUTH
+Todd,CAUTH
+Tomlinson,CAUTH
+Toñgonan,CAUTH
+Tosdal,CAUTH
+Trofimov,CAUTH
+Truesdell,CAUTH
+Tseveendorj,CAUTH
+Turner,CAUTH
+Ueda,CAUTH
+Umhoefer,CAUTH
+Urabe,CAUTH
+Urashima,CAUTH
+Urey,CAUTH
+Urzua,CAUTH
+V.G.,CAUTH
+Valencia,CAUTH
+Valentine,CAUTH
+Varela,CAUTH
+Vassilieff,CAUTH
+Vassiliev,CAUTH
+Vassilieva,CAUTH
+Vega,CAUTH
+Velasco,CAUTH
+Vidal,CAUTH
+Villalobos,CAUTH
+Villas,CAUTH
+Vincent,CAUTH
+Visser,CAUTH
+Vlad,CAUTH
+Volkening,CAUTH
+Voudouris,CAUTH
+Vrolijk,CAUTH
+W. H. Wilkinson,CAUTH
+Walker,CAUTH
+Wallace,CAUTH
+Wallachishe,CAUTH
+Wang,CAUTH
+Wanhainen,CAUTH
+Warnaars,CAUTH
+Warner,CAUTH
+Watanabe,CAUTH
+Watson,CAUTH
+Weaver,CAUTH
+Webb,CAUTH
+Weber,CAUTH
+Wei,CAUTH
+Weisbrod,CAUTH
+Wells,CAUTH
+Westerndorp,CAUTH
+Westrich,CAUTH
+Wetmore,CAUTH
+Whitcher,CAUTH
+White,CAUTH
+Whitnail,CAUTH
+Whitney,CAUTH
+Wilkinson,CAUTH
+Willes,CAUTH
+William,CAUTH
+Williams,CAUTH
+Windly,CAUTH
+Winther,CAUTH
+Wolf,CAUTH
+Wolfe,CAUTH
+Wones,CAUTH
+Wood,CAUTH
+Woodfill,CAUTH
+Woods,CAUTH
+Wright,CAUTH
+Wu,CAUTH
+Wyllie,CAUTH
+Xirouchakis,CAUTH
+Xizang,CAUTH
+Xu,CAUTH
+Yamaguchi,CAUTH
+Yan,CAUTH
+Yanev,CAUTH
+Yang,CAUTH
+Yao,CAUTH
+Yerington,CAUTH
+Yerington district Dilles,CAUTH
+Yerington-Dilles,CAUTH
+Yin,CAUTH
+Yngström,CAUTH
+Yogodzinski,CAUTH
+Yosifov,CAUTH
+Young,CAUTH
+YU,CAUTH
+Yumul,CAUTH
+Z. Pėcskay,CAUTH
+Zairi,CAUTH
+Zaluski,CAUTH
+Zandt,CAUTH
+Zanoria,CAUTH
+Zappa-Koffee,CAUTH
+Zen,CAUTH
+Zentilli,CAUTH
+Zhai,CAUTH
+Zhang,CAUTH
+Zhao,CAUTH
+Zharikov,CAUTH
+Zheng,CAUTH
+Zhou,CAUTH
+Zhu,CAUTH
+Zúñiga,CAUTH
+Zweifel,CAUTH
+Zweng,CAUTH
+,
+ancient Tianshan,RGS
+Appalachian,RGS
+arc,RGS
+Belts,RGS
+Boluohuoluo,RGS
+Bone,RGS
+Calliope,RGS
+Carpathian,RGS
+Carpathian-Balkan,RGS
+Circum-Rhodope,RGS
+continental-oceanic arc,RGS
+copper belt,RGS
+Cordillera,RGS
+East Tianshan,RGS
+Eungella-Cracow,RGS
+forearc basin,RGS
+Gangdise,RGS
+Gosau-type,RGS
+intramontane,RGS
+island,RGS
+Junggar-Kazakhstan block,RGS
+Kangger suture,RGS
+Kangguer ductile,RGS
+Kangguer orogenic,RGS
+Kazakhstan-Juanggar block,RGS
+Keetley,RGS
+magmatic arc,RGS
+metasedimentary belt,RGS
+mountain belt,RGS
+Murdock,RGS
+North China,RGS
+oceanic arc terrane,RGS
+oceanic terrane,RGS
+orogen,RGS
+orogenic,RGS
+orogenic belts,RGS
+orogens,RGS
+Orogeny,RGS
+Penninic,RGS
+Pindos,RGS
+prebatholitic basement,RGS
+Proserpine,RGS
+Razorback,RGS
+Rockhampton-Mount,RGS
+San Francisco batholith,RGS
+Serbo-Macedonian,RGS
+shale-sandstone belt,RGS
+South China,RGS
+subduction,RGS
+Tasman,RGS
+Teniente fault,RGS
+the North,RGS
+the Red Mountain,RGS
+the Sacramento Valley,RGS
+The South,RGS
+the Western,RGS
+Thomson,RGS
+thrust-fold belt,RGS
+Tianshan orogen,RGS
+Tien Shan,RGS
+Tousuquan-Dananhu-Huangshan,RGS
+Trans–North China,RGS
+volcanic,RGS
+volcanic arcs,RGS
+volcaniclastic belt,RGS
+volcaniclastic strata,RGS
+volcanotectonic basin,RGS
+Western blocks,RGS
+Yangtze block,RGS
+Yarrol,RGS
+Yeppoon,RGS
+,
+anhydrite-cemented breccias,SR
+arkose,SR
+biotite breccia,SR
+biotite breccias,SR
+biotite-matrix breccias,SR
+breccia,SR
+Breccias,SR
+brecciated,SR
+calcareous siltstone,SR
+carbonaceous shale,SR
+carbonate,SR
+carbonates,SR
+cherts,SR
+clastic,SR
+conglomerate,SR
+dark mudstone,SR
+gravelly lithic,SR
+graywackes,SR
+greenschist,SR
+gritstones,SR
+limestone,SR
+limestones,SR
+lithic sandstone,SR
+marl,SR
+Megabreccia,SR
+melange,SR
+mudstone,SR
+ophiolite,SR
+ophiolites,SR
+pyroclastic rocks,SR
+sandstone,SR
+sandstones,SR
+schists,SR
+sedimentary,SR
+shale,SR
+silicalite,SR
+siliceous tuff,SR
+siltstone,SR
+tuff,SR
+tuffaceous,SR
+,
+Ar,TE
+argon,TE
+arsenic,TE
+As,TE
+B,TE
+Ba,TE
+Be,TE
+Bi,TE
+bismuth,TE
+Boron,TE
+cadmium,TE
+Cl,TE
+Co,TE
+Cr,TE
+Cs,TE
+Eu,TE
+europium,TE
+F,TE
+gold,TE
+lead,TE
+mercury,TE
+Mo,TE
+Nb,TE
+Nd,TE
+Ni,TE
+nickel,TE
+Os,TE
+Osmium,TE
+Pb,TE
+Pb-Zn,TE
+Pd,TE
+potassium,TE
+Rb,TE
+Re,TE
+Rhenium,TE
+S,TE
+Sr,TE
+sulfide,TE
+sulfur,TE
+Th,TE
+U,TE
+up,TE
+V,TE
+ZCe,TE
+zinc,TE
+Zn,TE
+Zr,TE
+ZY,TE
+,
+1863,YEAR
+1864,YEAR
+1899,YEAR
+1904,YEAR
+1910,YEAR
+1911,YEAR
+1912,YEAR
+1913,YEAR
+1922,YEAR
+1924,YEAR
+1925,YEAR
+1930,YEAR
+1933,YEAR
+1935,YEAR
+1936,YEAR
+1938,YEAR
+1940,YEAR
+1940s,YEAR
+1947,YEAR
+1949,YEAR
+1950,YEAR
+1951,YEAR
+1952,YEAR
+1953,YEAR
+1954,YEAR
+1956,YEAR
+1957,YEAR
+1958,YEAR
+1960,YEAR
+1961,YEAR
+1962,YEAR
+1963,YEAR
+1964,YEAR
+1965,YEAR
+1966,YEAR
+1967,YEAR
+1968,YEAR
+1968–2002,YEAR
+1968--69,YEAR
+1969,YEAR
+1970,YEAR
+1971,YEAR
+1972,YEAR
+1973,YEAR
+1974,YEAR
+1975,YEAR
+1976,YEAR
+1977,YEAR
+1978,YEAR
+1979,YEAR
+1980,YEAR
+1980s,YEAR
+1981,YEAR
+1982,YEAR
+1983,YEAR
+1984,YEAR
+1985,YEAR
+1986,YEAR
+1987,YEAR
+1988,YEAR
+1989,YEAR
+1990,YEAR
+1991,YEAR
+1992,YEAR
+1993,YEAR
+1994,YEAR
+1995,YEAR
+1996,YEAR
+1997,YEAR
+1998,YEAR
+1999,YEAR
+2000,YEAR
+2001,YEAR
+2002,YEAR
+2003,YEAR
+2004,YEAR
+2005,YEAR
+2006,YEAR
+2007,YEAR
+2010,YEAR
