@@ -1,0 +1,778 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/cwang/ontologies/2020/9/untitled-ontology-4#"
+     xml:base="http://www.semanticweb.org/cwang/ontologies/2020/9/untitled-ontology-4"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#prefLabel -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#prefLabel"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#hasInformation -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#hasInformation"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Attitude -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Attitude">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalStructure"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreBody"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Concentration -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Concentration"/>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Distance -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Distance">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#LatLon -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#LatLon">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreGrade -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreGrade">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreBody"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreTonnage -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreTonnage">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreBody"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Orentation -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Orentation">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Pressure -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Pressure">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidInclusion"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Salinity -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Salinity">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidInclusion"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Size -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Size"/>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Temperature -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Temperature">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidInclusion"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Age -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Age">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IsotopicAge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Alteration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Alteration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationStageZone -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationStageZone">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Alteration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationType -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationType">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Alteration"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineral"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AnalysisInstrument -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AnalysisInstrument">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochemistry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AnalysisMethod -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AnalysisMethod">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochemistry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Attitude -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Attitude">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreBody"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Author -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Author">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Authorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Authorship -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Authorship">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#CitationAuthor -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#CitationAuthor">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Authorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#City -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#City">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Continent -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Continent">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Country -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Country">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#DepositName -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#DepositName">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#EconomicElement -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#EconomicElement">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochemistry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidInclusion -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidInclusion">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidSource -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidSource">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidInclusion"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidType -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidType">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#FluidInclusion"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochemistry -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochemistry">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochronology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochronology">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+        <rdfs:label xml:lang="en">GeographicLocation</rdfs:label>
+        <skos:prefLabel xml:lang="en">Geographic Location</skos:prefLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalSetting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalSetting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalStructure -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalStructure">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalTimescale -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalTimescale">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochronology"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalUnit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalUnit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GlobalGeologicalSetting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GlobalGeologicalSetting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalSetting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IgneousRock -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IgneousRock">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Petrology"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IgneousShape -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IgneousShape">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IgneousRock"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Institute -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Institute">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Authorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Isotope -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Isotope">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochemistry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IsotopicAge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IsotopicAge">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochronology"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Lab -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Lab">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IsotopicAge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MagmaType -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MagmaType">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#IgneousRock"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MajorElement -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MajorElement">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochemistry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MetaMineral -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MetaMineral">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineral"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MetamorphicRock -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MetamorphicRock">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Petrology"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineral -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineral">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineralizaiton -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineralizaiton">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MineralizaitonStage -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MineralizaitonStage">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineralizaiton"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MineralizationType -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MineralizationType">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineralizaiton"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreBody -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreBody">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineralizaiton"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreGrade -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreGrade">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreBody"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreStructureTexture -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreStructureTexture">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineralizaiton"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreTonnage -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreTonnage">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreBody"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Petrology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Petrology">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PorphyryCopperDeposit">
+        <rdfs:label xml:lang="en">PorphyryCopperDeposit</rdfs:label>
+        <skos:prefLabel xml:lang="en">Porphyry Copper Deposit</skos:prefLabel>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PrimaryMineral -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PrimaryMineral">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mineral"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Province -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Province">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PublishedYear -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PublishedYear">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Authorship"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Radioisotope -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Radioisotope">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Isotope"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#RegionalGeologicalSetting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#RegionalGeologicalSetting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeologicalSetting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#SedimentaryRock -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#SedimentaryRock">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Petrology"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Shape -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Shape">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#OreBody"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#StableIstope -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#StableIstope">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Isotope"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#TraceElement -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#TraceElement">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Geochemistry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#locality -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#locality">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#GeographicLocation"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Ag -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Ag">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#EconomicElement"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#ArgillicAlteration -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#ArgillicAlteration">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationType"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#ArgillicZone -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#ArgillicZone">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationStageZone"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Au -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Au">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#EconomicElement"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#BorniteMagnetiteZone -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#BorniteMagnetiteZone">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationStageZone"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Cu -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Cu">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#EconomicElement"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#K-Ar -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#K-Ar">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AnalysisMethod"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#LA-ICP-MS -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#LA-ICP-MS">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AnalysisInstrument"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MS -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#MS">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AnalysisInstrument"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mo -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Mo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#EconomicElement"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PhyllicAlteration -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PhyllicAlteration">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationType"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PhyllicZone -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PhyllicZone">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationStageZone"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PotassicAlteration -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PotassicAlteration">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationType"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PotassicZone -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PotassicZone">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationStageZone"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PropyliticAlteration -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PropyliticAlteration">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationType"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PropyliticZone -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#PropyliticZone">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationStageZone"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Pyrite -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Pyrite"/>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Re-Os -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#Re-Os">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AnalysisMethod"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#SericiticAlteration -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#SericiticAlteration">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AlterationType"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#U-Pb -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#U-Pb">
+        <rdf:type rdf:resource="http://www.semanticweb.org/cwang/ontologies/2020/9/porcu#AnalysisMethod"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+
