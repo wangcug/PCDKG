@@ -1,0 +1,757 @@
+# baseURI: http://example.org/PCD
+# imports: http://www.w3.org/2003/01/geo/wgs84_pos
+# prefix: PCD
+
+@prefix PCD: <http://example.org/PCD#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/PCD>
+  a owl:Ontology ;
+  rdfs:comment "The PCD ontology aims to describe the entities and semantic relations in the porphyry copper deposit domain, so as to serve the text data mining from the geosciecne literature." ;
+  owl:imports <http://www.w3.org/2003/01/geo/wgs84_pos> ;
+  owl:versionInfo "Created with TopBraid Composer" ;
+.
+<http://example.org/PCD#207Pb/204Pb>
+  a PCD:IsotopeElement ;
+  rdfs:label "Pb" ;
+.
+<http://example.org/PCD#87Rb/86Sr>
+  a PCD:IsotopeElement ;
+  rdfs:label "Sr" ;
+.
+<http://example.org/PCD#87Sr/86Sr>
+  a PCD:IsotopeElement ;
+  rdfs:label "Sr" ;
+.
+PCD:Al2O3
+  a PCD:MajorElement ;
+  rdfs:label "Al2O3" ;
+.
+PCD:Alteration
+  a owl:Class ;
+  rdfs:label "Alteration" ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:AlterationStageZone
+  a owl:Class ;
+  rdfs:subClassOf PCD:Alteration ;
+.
+PCD:AlterationType
+  a owl:Class ;
+  rdfs:subClassOf PCD:Alteration ;
+.
+PCD:Anhui
+  a PCD:Province ;
+  rdfs:label "Anhui" ;
+.
+PCD:Apatite
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Apatite" ;
+.
+PCD:Banxigroup
+  a PCD:GeologicalUnit ;
+  rdfs:label "Banxigroup" ;
+.
+PCD:Biotite
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Biotite" ;
+.
+PCD:BiotiteAlteration
+  a PCD:AlterationType ;
+  rdfs:label "Biotite alteration" ;
+.
+PCD:Breccia
+  a PCD:IgneousRock ;
+  rdfs:label "Breccia" ;
+.
+PCD:CaO
+  a PCD:MajorElement ;
+  rdfs:label "Ca o" ;
+.
+PCD:Calcite
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Calcite" ;
+.
+PCD:Carbonate
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Carbonate" ;
+.
+PCD:Chalcopyrite
+  a PCD:MetalMinerals ;
+  rdfs:label "Chalcopyrite" ;
+.
+PCD:CheinsesAcademyOfSciences
+  a PCD:Organization ;
+  rdfs:label "Cheinses academy of sciences" ;
+.
+PCD:China
+  a PCD:Country ;
+  rdfs:label "China" ;
+.
+PCD:Chlorite
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Chlorite" ;
+.
+PCD:ChloriteAlteratioon
+  a PCD:AlterationType ;
+  rdfs:label "Chlorite alteratioon" ;
+.
+PCD:ChloriteEpidoteIlliteZone
+  a PCD:AlterationStageZone ;
+  rdfs:label "Chlorite epidote illite zone" ;
+.
+PCD:ChloriteEpidoteSericiteZone
+  a PCD:AlterationStageZone ;
+  rdfs:label "Chlorite epidote sericite zone" ;
+.
+PCD:City
+  a owl:Class ;
+  rdfs:label "City" ;
+  rdfs:subClassOf PCD:Province ;
+.
+PCD:CollisionOrogeny
+  a PCD:GlobalGeologicalSetting ;
+  rdfs:label "Collision orogeny" ;
+.
+PCD:ContinentalMarginArc
+  a PCD:GlobalGeologicalSetting ;
+  rdfs:label "Continental margin arc" ;
+.
+PCD:Country
+  a owl:Class ;
+  rdfs:label "Country" ;
+  rdfs:subClassOf PCD:GeographicLocation ;
+.
+PCD:Cr
+  a PCD:TraceElement ;
+  rdfs:label "Cr" ;
+.
+PCD:Cretaceous
+  a PCD:GeologicTimeScale ;
+  rdfs:label "Cretaceous" ;
+.
+PCD:Dexing
+  a PCD:City ;
+  rdfs:label "Dexing" ;
+.
+PCD:DexingPorphryCopperDeposit
+  a PCD:MineralDeposit ;
+  PCD:hasAlterationType PCD:BiotiteAlteration ;
+  PCD:hasAlterationType PCD:ChloriteAlteratioon ;
+  PCD:hasAlterationType PCD:EpidoteAlteration ;
+  PCD:hasAlterationType PCD:K-feldsparAlteration ;
+  PCD:hasAlterationType PCD:Quartzization ;
+  PCD:hasAlterationType PCD:Sericitization ;
+  PCD:hasAlterationZone PCD:ChloriteEpidoteIlliteZone ;
+  PCD:hasAlterationZone PCD:ChloriteEpidoteSericiteZone ;
+  PCD:hasAlterationZone PCD:QuartzSericiteZone ;
+  PCD:hasMineralization PCD:DisseminatedAssemblages ;
+  PCD:hasMineralization PCD:DistinctiveQuartzVein ;
+  PCD:hasMinerals PCD:Apatite ;
+  PCD:hasMinerals PCD:Biotite ;
+  PCD:hasMinerals PCD:Calcite ;
+  PCD:hasMinerals PCD:Carbonate ;
+  PCD:hasMinerals PCD:Chalcopyrite ;
+  PCD:hasMinerals PCD:Chlorite ;
+  PCD:hasMinerals PCD:Hornblende ;
+  PCD:hasMinerals PCD:Illite ;
+  PCD:hasMinerals PCD:Ilmenite ;
+  PCD:hasMinerals PCD:KFeldspar ;
+  PCD:hasMinerals PCD:Molybdenite ;
+  PCD:hasMinerals PCD:Muscovite ;
+  PCD:hasMinerals PCD:Pyrite ;
+  PCD:hasMinerals PCD:Quartz ;
+  PCD:hasMinerals PCD:Rutile ;
+  PCD:hasMinerals PCD:Sericite ;
+  PCD:isControlledBy PCD:Breccia ;
+  PCD:isControlledBy PCD:DiabasePorphyry ;
+  PCD:isControlledBy PCD:DioritePorphyry ;
+  PCD:isControlledBy PCD:E-WFault ;
+  PCD:isControlledBy PCD:FeldsparPorphyry ;
+  PCD:isControlledBy PCD:FujiawuAnticline ;
+  PCD:isControlledBy PCD:Gabbro ;
+  PCD:isControlledBy PCD:GranodioritePorphyry ;
+  PCD:isControlledBy PCD:Hornfels ;
+  PCD:isControlledBy PCD:NEFault ;
+  PCD:isControlledBy PCD:NNEFault ;
+  PCD:isControlledBy PCD:Pyroxenite ;
+  PCD:isControlledBy PCD:TongchangAnticline ;
+  PCD:isControlledBy PCD:XiangaoshanSyncline ;
+  PCD:isControlledBy PCD:ZhushahongAnticline ;
+  PCD:isFormedIn PCD:MiddleJurassicShi-HangIntracontinentalRift ;
+  PCD:isRelatedTo PCD:Phyllite ;
+  PCD:isRelatedTo PCD:Slate ;
+  PCD:isRelatedTo PCD:Tuff ;
+  PCD:isStudiedBy PCD:JingwenMao ;
+  PCD:isStudiedBy PCD:QiangWang ;
+  PCD:isStudiedBy PCD:QingZhou ;
+  rdfs:hasAge "173Ma" ;
+  rdfs:label "Fujiawu,Tongchang,Zhushahong" ;
+  owl:hasAge "173Ma" ;
+  geo:lat "29.01888889" ;
+  geo:location PCD:China ;
+  geo:location PCD:Dexing ;
+  geo:location PCD:Jiangxi ;
+  geo:long "117.7297222" ;
+.
+PCD:DiabasePorphyry
+  a PCD:IgneousRock ;
+  rdfs:label "Diabase porphyry" ;
+.
+PCD:DioritePorphyry
+  a PCD:IgneousRock ;
+  rdfs:label "Diorite porphyry " ;
+.
+PCD:DisseminatedAssemblages
+  a PCD:Mineralization ;
+  rdfs:label "Disseminated assemblages" ;
+.
+PCD:DistinctiveQuartzVein
+  a PCD:Mineralization ;
+  rdfs:label "Distinctive quartz vein" ;
+.
+PCD:E-WFault
+  a PCD:GeologicalStructure ;
+  rdfs:label "E-WFault" ;
+.
+PCD:EpidoteAlteration
+  a PCD:AlterationType ;
+  rdfs:label "Epidote alteration" ;
+.
+PCD:Fault
+  a PCD:GeologicalStructure ;
+  rdfs:label "Fault" ;
+.
+PCD:Fe2O3
+  a PCD:MajorElement ;
+  rdfs:label "Fe2O3" ;
+.
+PCD:FeldsparPorphyry
+  a PCD:IgneousRock ;
+  rdfs:label "Feldspar porphyry" ;
+.
+PCD:FluidInclusion
+  rdfs:label "Physical and chemical conditions" ;
+.
+PCD:FujiawuAnticline
+  a PCD:GeologicalStructure ;
+  rdfs:label "Fujiawu anticline" ;
+.
+PCD:Gabbro
+  a PCD:IgneousRock ;
+  rdfs:label "Gabbro" ;
+.
+PCD:Geochemistry
+  a owl:Class ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:GeographicLocation
+  a owl:Class ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:GeologicTimeScale
+  a owl:Class ;
+  rdfs:label "Geologic time scale" ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:GeologicalSetting
+  a owl:Class ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:GeologicalStructure
+  a owl:Class ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:GeologicalStructure_1
+  a PCD:GeologicalStructure ;
+  rdfs:label "Geological structure 1" ;
+.
+PCD:GeologicalUnit
+  a owl:Class ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:GlobalGeologicalSetting
+  a owl:Class ;
+  rdfs:label "Global geological setting" ;
+  rdfs:subClassOf PCD:GeologicalSetting ;
+.
+PCD:GranodioritePorphyry
+  a PCD:IgneousRock ;
+  rdfs:label "Granodiorite porphyry" ;
+.
+PCD:Hornblende
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Hornblende" ;
+.
+PCD:Hornfels
+  a PCD:IgneousRock ;
+  rdfs:label "Hornfels" ;
+.
+PCD:ICP-MS
+  a PCD:Instructment ;
+  rdfs:label "ICP-MS" ;
+.
+PCD:IgneousRock
+  a owl:Class ;
+  rdfs:subClassOf PCD:Petrology ;
+.
+PCD:Illite
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Illite" ;
+.
+PCD:Ilmenite
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Ilmenite" ;
+.
+PCD:Instructment
+  a owl:Class ;
+  rdfs:label "Instructment" ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:IslandArc
+  a PCD:GlobalGeologicalSetting ;
+  rdfs:label "Island arc" ;
+.
+PCD:IsotopeElement
+  a owl:Class ;
+  rdfs:label "IS" ;
+  rdfs:subClassOf PCD:Geochemistry ;
+.
+PCD:Jiangxi
+  a PCD:Province ;
+  rdfs:label "Jiangxi" ;
+.
+PCD:JingwenMao
+  a PCD:Person ;
+  rdfs:label "Jingwen mao" ;
+.
+PCD:Jurassic
+  a PCD:GeologicTimeScale ;
+  rdfs:label "Jurassic" ;
+.
+PCD:K-feldsparAlteration
+  a PCD:AlterationType ;
+  rdfs:label "K-feldspar alteration" ;
+.
+PCD:K2O
+  a PCD:MajorElement ;
+  rdfs:label "K2O" ;
+.
+PCD:KFeldspar
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "KFeldspar" ;
+.
+<http://example.org/PCD#LA–ICP–MS>
+  a PCD:Instructment ;
+  rdfs:label "MS" ;
+.
+PCD:La
+  a PCD:TraceElement ;
+  rdfs:label "La" ;
+.
+PCD:LateArchaean
+  a PCD:GeologicTimeScale ;
+  rdfs:label "Late archaean" ;
+.
+PCD:LateMesozoic
+  a PCD:GeologicTimeScale ;
+  rdfs:label "Late mesozoic" ;
+.
+PCD:Lu
+  a PCD:TraceElement ;
+  rdfs:label "Lu" ;
+.
+PCD:MajorElement
+  a owl:Class ;
+  rdfs:label "Major element" ;
+  rdfs:subClassOf PCD:Geochemistry ;
+.
+PCD:MetalMinerals
+  a owl:Class ;
+  rdfs:label "Metal minerals" ;
+  rdfs:subClassOf PCD:Mineral ;
+.
+PCD:MetamorphicRock
+  a owl:Class ;
+  rdfs:subClassOf PCD:Petrology ;
+.
+PCD:MgO
+  a PCD:MajorElement ;
+  rdfs:label "Mg o" ;
+.
+PCD:MiddleJurassicShi-HangIntracontinentalRift
+  a PCD:RegionalGeologicalSetting ;
+  rdfs:label "Middle jurassic shi-Hang intracontinental rift" ;
+.
+PCD:Mineral
+  a owl:Class ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:MineralDeposit
+  a owl:Class ;
+  rdfs:comment "MineralDeposit represents the entity classe of porphyry copper deposit" ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:Mineralization
+  a owl:Class ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:Molybdenite
+  a PCD:MetalMinerals ;
+  rdfs:label "Molybdenite" ;
+.
+PCD:Muscovite
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Muscovite" ;
+.
+PCD:NEFault
+  a PCD:GeologicalStructure ;
+  rdfs:label "NEFault" ;
+.
+PCD:NNEFault
+  a PCD:GeologicalStructure ;
+  rdfs:label "NNEFault" ;
+.
+PCD:Na2O
+  a PCD:MajorElement ;
+  rdfs:label "Na2O" ;
+.
+PCD:NanjingUniversity
+  a PCD:Organization ;
+  rdfs:label "Nanjing university" ;
+.
+PCD:Nb
+  a PCD:TraceElement ;
+  rdfs:label "Nb" ;
+.
+PCD:Nd
+  a PCD:TraceElement ;
+  rdfs:label "Nd" ;
+.
+PCD:Ni
+  a PCD:TraceElement ;
+  rdfs:label "Ni" ;
+.
+PCD:Non-metallicMinerals
+  a owl:Class ;
+  rdfs:label "Non-metallic minerals" ;
+  rdfs:subClassOf PCD:Mineral ;
+.
+PCD:Organization
+  a owl:Class ;
+  rdfs:label "Organization" ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:Person
+  a owl:Class ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:Petrology
+  a owl:Class ;
+  rdfs:label "Petrolpgy" ;
+  rdfs:subClassOf owl:Thing ;
+.
+PCD:Phyllite
+  a PCD:IgneousRock ;
+  rdfs:label "Phyllite" ;
+.
+PCD:Porphry
+  a PCD:IgneousRock ;
+  rdfs:label "Porphry" ;
+.
+PCD:Province
+  a owl:Class ;
+  rdfs:label "Province" ;
+  rdfs:subClassOf PCD:Country ;
+.
+PCD:Pyrite
+  a PCD:MetalMinerals ;
+  rdfs:label "Pyrite" ;
+.
+PCD:Pyroxenite
+  a PCD:IgneousRock ;
+  rdfs:label "Pyroxenite" ;
+.
+PCD:QiangWang
+  a PCD:Person ;
+  rdfs:label "Qiang wang" ;
+.
+PCD:QingZhou
+  a PCD:Person ;
+  rdfs:label "Qing zhou" ;
+.
+PCD:Quartz
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Quartz" ;
+.
+PCD:QuartzSericiteZone
+  a PCD:AlterationStageZone ;
+  rdfs:label "Quartz sericite zone" ;
+.
+PCD:Quartzization
+  a PCD:AlterationType ;
+  rdfs:label "Quartzization" ;
+.
+PCD:Rb
+  a PCD:TraceElement ;
+  rdfs:label "Rb" ;
+.
+PCD:RegionalGeologicalSetting
+  a owl:Class ;
+  rdfs:label "Regional geological setting" ;
+  rdfs:subClassOf PCD:GeologicalSetting ;
+.
+PCD:Rutile
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Rutile" ;
+.
+PCD:SHRIMP
+  a PCD:Instructment ;
+  rdfs:label "SHRIMP" ;
+.
+PCD:SedimentaryRock
+  a owl:Class ;
+  rdfs:subClassOf PCD:Petrology ;
+.
+PCD:Sericite
+  a PCD:Non-metallicMinerals ;
+  rdfs:label "Sericite" ;
+.
+PCD:Sericitization
+  a PCD:AlterationType ;
+  rdfs:label "Sericitization" ;
+.
+PCD:Shuangqiaoshangroup
+  a PCD:GeologicalUnit ;
+  rdfs:label "Shuangqiaoshangroup" ;
+.
+PCD:SiO2
+  a PCD:MajorElement ;
+  rdfs:label "Si o2" ;
+.
+PCD:Slate
+  a PCD:MetamorphicRock ;
+  rdfs:label "Slate" ;
+.
+PCD:Sm
+  a PCD:TraceElement ;
+  rdfs:label "Sm" ;
+.
+PCD:Sr
+  a PCD:TraceElement ;
+  rdfs:label "Sr" ;
+.
+PCD:Th
+  a PCD:TraceElement ;
+  rdfs:label "Th" ;
+.
+PCD:TiO2
+  a PCD:MajorElement ;
+  rdfs:label "Ti o2" ;
+.
+PCD:TongchangAnticline
+  a PCD:GeologicalStructure ;
+  rdfs:label "Tongchang anticline" ;
+.
+PCD:TraceElement
+  a owl:Class ;
+  rdfs:label "Trace element" ;
+  rdfs:subClassOf PCD:Geochemistry ;
+.
+PCD:Tuff
+  a PCD:IgneousRock ;
+  rdfs:label "Tuff" ;
+.
+PCD:U
+  a PCD:TraceElement ;
+  rdfs:label "U" ;
+.
+PCD:V
+  a PCD:TraceElement ;
+  rdfs:label "V" ;
+.
+PCD:X-rayFluorescenceSpectrometry
+  a PCD:Instructment ;
+  rdfs:label "X-ray fluorescence spectrometry" ;
+.
+PCD:XiangaoshanSyncline
+  a PCD:GeologicalStructure ;
+  rdfs:label "Xiangaoshan syncline" ;
+.
+PCD:Y
+  a PCD:TraceElement ;
+  rdfs:label "Y" ;
+.
+PCD:YangtzeCarton
+  a PCD:RegionalGeologicalSetting ;
+  rdfs:label "Yangtze carton" ;
+.
+PCD:ZhushahongAnticline
+  a PCD:GeologicalStructure ;
+  rdfs:label "Zhushahong anticline" ;
+.
+PCD:Zr
+  a PCD:TraceElement ;
+  rdfs:label "Zr" ;
+.
+PCD:hasAlterationType
+  a owl:ObjectProperty ;
+  rdfs:domain PCD:MineralDeposit ;
+  rdfs:label "has alteration type" ;
+  rdfs:range PCD:AlterationType ;
+.
+PCD:hasAlterationZone
+  a owl:ObjectProperty ;
+  rdfs:domain PCD:MineralDeposit ;
+  rdfs:label "has alteration zone" ;
+  rdfs:range PCD:AlterationStageZone ;
+.
+PCD:hasMineralization
+  a owl:ObjectProperty ;
+  rdfs:domain PCD:MineralDeposit ;
+  rdfs:label "has mineralization" ;
+  rdfs:range PCD:Mineralization ;
+.
+PCD:hasMinerals
+  a owl:ObjectProperty ;
+  rdfs:domain [
+      a owl:Class ;
+      owl:unionOf (
+          PCD:MineralDeposit
+          PCD:Mineralization
+        ) ;
+    ] ;
+  rdfs:label "has minerals" ;
+  rdfs:range PCD:Mineral ;
+.
+PCD:isAnalyzedBy
+  a owl:ObjectProperty ;
+  rdfs:domain PCD:Geochemistry ;
+  rdfs:label "is analyzed by" ;
+  rdfs:range PCD:Instructment ;
+.
+PCD:isAnalyzedFrom
+  a owl:ObjectProperty ;
+  rdfs:domain PCD:Geochemistry ;
+  rdfs:label "is analyzed from" ;
+  rdfs:range [
+      a owl:Class ;
+      owl:unionOf (
+          PCD:Mineral
+          PCD:Petrology
+        ) ;
+    ] ;
+.
+PCD:isCharacterizedBy
+  a owl:ObjectProperty ;
+  rdfs:label "is characterized by" ;
+.
+PCD:isControlledBy
+  a owl:ObjectProperty ;
+  rdfs:domain PCD:MineralDeposit ;
+  rdfs:label "is controlled by" ;
+  rdfs:range PCD:GeologicalStructure ;
+  rdfs:range PCD:GeologicalUnit ;
+  rdfs:range PCD:Petrology ;
+.
+PCD:isFormedIn
+  a owl:ObjectProperty ;
+  rdfs:domain PCD:MineralDeposit ;
+  rdfs:label "is formed in" ;
+  rdfs:range PCD:GeologicalSetting ;
+.
+PCD:isRelatedTo
+  a owl:ObjectProperty ;
+  rdfs:domain PCD:MineralDeposit ;
+  rdfs:label "is related to" ;
+  rdfs:range PCD:GeologicalStructure ;
+  rdfs:range PCD:GeologicalUnit ;
+  rdfs:range PCD:Petrology ;
+.
+PCD:isSampledFrom
+  a owl:ObjectProperty ;
+  rdfs:label "is sampled from" ;
+.
+PCD:isStudiedBy
+  a owl:ObjectProperty ;
+  rdfs:domain PCD:MineralDeposit ;
+  rdfs:label "is studied by" ;
+  rdfs:range PCD:Organization ;
+  rdfs:range PCD:Person ;
+.
+PCD:δ18O
+  a PCD:IsotopeElement ;
+  rdfs:label "δ18O" ;
+.
+PCD:δ34S
+  a PCD:IsotopeElement ;
+  rdfs:label "δ34S" ;
+.
+PCD:δD
+  a PCD:IsotopeElement ;
+  rdfs:label "δ d" ;
+.
+PCD:εHf
+  a PCD:IsotopeElement ;
+  rdfs:label "ε hf" ;
+.
+PCD:εNd
+  a PCD:IsotopeElement ;
+  rdfs:label "ε nd" ;
+.
+rdfs:hasAge
+  a owl:DatatypeProperty ;
+  rdfs:label "has age" ;
+  rdfs:subPropertyOf rdfs:hasValue ;
+.
+rdfs:hasConcentration
+  a owl:DatatypeProperty ;
+  rdfs:label "has concentration" ;
+  rdfs:subPropertyOf rdfs:hasValue ;
+.
+rdfs:hasPressure
+  a owl:DatatypeProperty ;
+  rdfs:label "has pressure" ;
+  rdfs:subPropertyOf rdfs:hasValue ;
+.
+rdfs:hasShape
+  a owl:DatatypeProperty ;
+  rdfs:label "has shape" ;
+.
+rdfs:hasTemperature
+  a owl:DatatypeProperty ;
+  rdfs:label "has temperature" ;
+  rdfs:subPropertyOf rdfs:hasValue ;
+.
+rdfs:hasValue
+  a owl:DatatypeProperty ;
+  rdfs:label "has value" ;
+.
+owl:hasAge
+  a owl:DatatypeProperty ;
+  rdfs:label "has age" ;
+.
+owl:hasConcentration
+  a owl:DatatypeProperty ;
+  rdfs:label "has concentration" ;
+.
+owl:hasPressure
+  a owl:DatatypeProperty ;
+  rdfs:label "has pressure" ;
+.
+owl:hasSalinity
+  a owl:DatatypeProperty ;
+  rdfs:label "has salinity" ;
+.
+owl:hasTemperature
+  a owl:DatatypeProperty ;
+  rdfs:label "has temperature" ;
+.
+geo:location
+  rdfs:domain PCD:MineralDeposit ;
+  rdfs:range PCD:GeographicLocation ;
+.
